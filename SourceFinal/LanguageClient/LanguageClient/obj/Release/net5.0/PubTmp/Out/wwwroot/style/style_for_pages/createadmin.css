@@ -1,0 +1,229 @@
+.img-fluid {
+    width: 120px;
+}
+
+.far {
+    padding: 7px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 30px;
+}
+
+.card-body p.text-muted {
+    margin-bottom: 0;
+}
+
+.content-wrapper {
+    background-image: url(/assets/images/logo/change.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.d-flex a {
+    margin-right: 10px;
+}
+
+.upload_btn {
+    display: inline-block;
+    cursor: pointer;
+}
+
+.main-panel {
+    transition: width 0.25s ease, margin 0.25s ease;
+    width: 100%;
+    display: -webkit-flex;
+    /* display: flex; */
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    max-width: 100%;
+}
+
+.row-ele {
+    display: flex;
+    justify-content: center;
+}
+
+.img-fluid {
+    width: 150px;
+    height: 150px;
+    border-radius: 5rem;
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 1px solid #193978;
+    padding: 0.4rem 0.4rem;
+    border-radius: 0.3rem;
+    color: black !important;
+}
+
+.form-control {
+    box-shadow: none;
+    border: 1px solid #dededede;
+    outline: 0rem !important;
+    padding: 0.4rem 0.4rem;
+    border-radius: 0.3rem;
+    color: black !important;
+}
+
+select.form-control {
+    box-shadow: none;
+    border: 1px solid #dededede;
+    outline: 0rem !important;
+    padding: 0.4rem 0.4rem;
+    border-radius: 0.3rem;
+    color: black;
+}
+
+.password-container {
+    position: relative;
+}
+
+    .password-container input[type="password"] {
+        padding-right: 30px;
+        /* Dành khoảng trống cho icon */
+    }
+
+.password-toggle {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.password-container input[type="password2"] {
+    padding-right: 30px;
+    /* Dành khoảng trống cho icon */
+}
+
+.password-toggle2 {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.password-container input[type="password3"] {
+    padding-right: 30px;
+    /* Dành khoảng trống cho icon */
+}
+
+.password-toggle3 {
+    position: absolute;
+    top: 50%;
+    right: 5px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.row.d-flex.justify-content-center.align-items-center {
+    flex-direction: column;
+}
+
+.col.col-lg-12.mb-4.mb-lg-0 {
+    display: contents;
+}
+
+select option:first-child {
+    color: #888 !important;
+}
+
+.title_change_password {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+    opacity: unset;
+}
+
+.contain_change_password {
+    width: 500px;
+    border-radius: 1px;
+    background-color: rgba(25, 57, 120, 0.6);
+    border: none;
+}
+
+.btn_change_password {
+    font-weight: bold;
+    color: #193978;
+    background: #fff;
+}
+
+.padding_change_password {
+    padding: 1.7rem 0 !important;
+}
+
+.btn_change_password {
+    margin-top: 20px;
+    border: none;
+    transition: 0.1s;
+}
+
+    .btn_change_password:focus,
+    .btn_change_password:hover {
+        background: #fff !important;
+        box-shadow: 0px 0px 10px #fff;
+        color: #193978 !important;
+    }
+
+.input_change_password {
+    background: inherit;
+    border-radius: 1px !important;
+    padding: 0.8rem 0.5rem;
+    color: #9c9bbe !important;
+    font-weight: 600;
+    border: 2px solid #9c9bbe !important;
+}
+
+    .input_change_password:focus {
+        border: 2px solid #dedede !important;
+        background: inherit !important;
+        border-radius: 1px !important;
+        padding: 0.8rem 0.5rem !important;
+        color: #fff !important;
+        border: 2px solid #e8e8e8 !important;
+    }
+
+    .input_change_password::placeholder {
+        color: #9c9bbe;
+    }
+
+.select_create {
+    background: inherit;
+    border-radius: 1px !important;
+    padding: 0.8rem 0.5rem !important;
+    color: #9c9bbe !important;
+    font-weight: 600;
+    border: 2px solid #9c9bbe !important;
+}
+
+    .select_create:focus {
+        background: inherit !important;
+        border-radius: 1px !important;
+        padding: 0.8rem 0.5rem !important;
+        color: #9c9bbe !important;
+        font-weight: 600;
+        border: 2px solid #9c9bbe !important;
+    }
+
+.btn_change_password {
+    width: 170px;
+    margin-top: 20px;
+    border: none;
+    transition: 0.1s;
+    font-weight: bold;
+    color: #193978;
+    background: #fff;
+    font-size: 18px;
+}
+
+    .btn_change_password:focus,
+    .btn_change_password:hover {
+        background: #fff !important;
+        box-shadow: 0px 0px 10px #fff;
+        color: #193978 !important;
+    }

@@ -1,0 +1,424 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/AccessLogs",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/AccessLogs",
+      "UpstreamHttpMethod": [ "POST", "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Accounts",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Accounts",
+      "UpstreamHttpMethod": [ "POST", "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Accounts/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Accounts/{id}",
+      "UpstreamHttpMethod": [ "PUT" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Accounts/Login",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Accounts/Login",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Accounts/regist",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Accounts/regist",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Accounts/getAccountsToSession/{username}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Accounts/getAccountsToSession/{username}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Accounts/checkAccountExist/{username}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Accounts/checkAccountExist/{username}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Accounts/remove/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Accounts/remove/{id}",
+      "UpstreamHttpMethod": [ "PUT" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Accounts/active/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Accounts/active/{id}",
+      "UpstreamHttpMethod": [ "PUT" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Comments",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Comments",
+      "UpstreamHttpMethod": [ "POST", "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Image/{fileName}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Image/{fileName}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Image/upload",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Image/upload",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Image/encode/{input}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Image/encode/{input}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Image/decode/{encodedString}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Image/decode/{encodedString}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Image/hash/{input}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Image/hash/{input}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Image/verify/{input}/{hashedString}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Image/verify/{input}/{hashedString}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/LanguageLogs",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/LanguageLogs",
+      "UpstreamHttpMethod": [ "POST", "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Pages",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Pages",
+      "UpstreamHttpMethod": [ "POST", "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Rates",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Rates",
+      "UpstreamHttpMethod": [ "POST", "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Rates/canRate/{userId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Rates/canRate/{userId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Roles",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Roles",
+      "UpstreamHttpMethod": [ "POST", "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Settings",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Settings",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Settings/{userId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Settings/{userId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/TranslationHistorys",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/TranslationHistorys",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/TranslationHistorys/{userId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/TranslationHistorys/{userId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/TranslationHistorys/remove",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/TranslationHistorys/remove",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Users",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Users",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Users/getAllUsers",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Users/getAllUsers",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Users/getAllWithRole",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Users/getAllWithRole",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Users/getAllWithStatus",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Users/getAllWithStatus",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Users/getByUserVoice/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Users/getByUserVoice/{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Users/getByAccount/{username}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Users/getByAccount/{username}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Users/GetByAccountByID/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Users/GetByAccountByID/{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Users/checkUserExist/{userName}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Users/checkUserExist/{userName}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/api/Users/withImage",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "api-languagefree.cosplane.asia",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Users/withImage",
+      "UpstreamHttpMethod": [ "POST" ]
+    }
+  ]
+}

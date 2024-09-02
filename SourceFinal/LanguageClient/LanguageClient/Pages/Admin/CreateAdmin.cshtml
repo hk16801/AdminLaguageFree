@@ -1,0 +1,348 @@
+@page
+@model LanguageClient.Pages.Admin.CreateAdmin
+@{
+    ViewData["Title"] = "CreateAdmin";
+}
+@using Microsoft.AspNetCore.Http
+@{
+    var token = HttpContext.Session.GetString("AccessToken");
+    var userName = "";
+    var userId = 0;
+    var role = "";
+    if (token != null)
+    {
+        var tokenParts = token.Split('.');
+        if (tokenParts.Length == 3)
+        {
+            var base64Payload = tokenParts[1];
+            base64Payload = base64Payload.Replace('-', '+').Replace('_', '/');
+            switch (base64Payload.Length % 4)
+            {
+                case 2: base64Payload += "=="; break;
+                case 3: base64Payload += "="; break;
+            }
+            var payloadBytes = Convert.FromBase64String(base64Payload);
+            var jsonPayload = System.Text.Encoding.UTF8.GetString(payloadBytes);
+            dynamic decodedPayload = Newtonsoft.Json.JsonConvert.DeserializeObject(jsonPayload);
+            userName = decodedPayload["UserName"];
+            userId = decodedPayload["UserID"];
+            role = decodedPayload["admin"];
+        }
+        else
+        {
+
+            <pre>Invalid token format</pre>
+        }
+
+    }
+}
+
+
+<head>
+
+    <link rel="stylesheet" href="~/style/style_for_pages/createadmin.css">
+    <script src="~/js/javascript/jsAll/CreateAdmin.js"></script>
+</head>
+
+<!-- partial -->
+<!-- partial:partials/_sidebar.html -->
+<nav class="sidebar sidebar-offcanvas" id="sidebar">
+    <ul class="nav">
+        <li class="nav-item">
+            <div class="d-flex sidebar-profile">
+                <div class="sidebar-profile-image">
+                    <img src="http://languagefree.cosplane.asia/Image/@(HttpContext.Session.GetString("imageName"))" alt="image">
+                </div>
+                <div class="sidebar-profile-name">
+                    @if (role == "3")
+                    {
+                        <p class="sidebar-name">
+
+                            Parent Admin
+
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                    @if (role == "2")
+                    {
+                        <p class="sidebar-name">
+                            Admin
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                </div>
+            </div>
+        </li>
+        <h3>Home</h3>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Index">
+                <i class="fa-solid fa-gauge-high menu-icon"></i>
+                <span class="menu-title">Dashboard</span>
+            </a>
+        </li>
+        @if (role == "3")
+        {
+            <li class="nav-item active">
+                <a class="nav-link" asp-page="/Admin/AdminManagement">
+                    <i class="fa-solid fa-user-gear menu-icon"></i>
+                    <span class="menu-title">Admin Management</span>
+                </a>
+            </li>
+        }
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/BlockUser">
+                <i class="fa-solid fa-user-lock menu-icon"></i>
+                <span class="menu-title">Blacklist Management</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/UserList">
+                <i class="fa-solid fa-user menu-icon"></i>
+                <span class="menu-title">User Management</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/Feedback">
+                <i class="fa-solid fa-comment-dots menu-icon"></i>
+                <span class="menu-title">Feedback</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/Rates">
+                <i class="fa-solid fa-ranking-star menu-icon"></i>
+                <span class="menu-title">Rating</span>
+            </a>
+        </li>
+        <h3>Overview Statistics</h3>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#charts2" aria-expanded="false" aria-controls="charts2">
+                <i class="fa-solid fa-chart-line menu-icon"></i>
+                <span class="menu-title">User Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts2">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersRegistration">
+                        Users Registration
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAccessing">
+                        Used Features
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersGender">
+                        Users Gender
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAge">
+                        Users Age
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#charts3" aria-expanded="false" aria-controls="charts3">
+                <i class="fa-solid fa-chart-column menu-icon"></i>
+                <span class="menu-title">Language Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts3">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/SourceLanguage">
+                        Source Language Used
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/TargetLanguage">
+                        Target Language Used
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </ul>
+</nav>
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="app-title">
+                    <ul class="app-breadcrumb breadcrumb">
+                         <li class="breadcrumb-item"><a asp-page="/Admin/UserList"><h4><b>Create Admin</b></h4></a></li>
+                        <li class="breadcrumb-item title"><b>Fill in the information to create more admins for the system.</b>
+                        </li>
+                    </ul>
+                    <div id="clock"></div>
+                </div>
+            </div>
+        </div>
+        <section>
+            <div class="container py-5 h-100">
+                <div class="row d-flex justify-content-center align-items-center h-100">
+                    <div class="col col-lg-12 mb-4 mb-lg-0">
+                        <div class="col-lg-6 card mb-3 contain_change_password">
+                            <div class="row g-0">
+                                <form class="row-ele" method="post" enctype="multipart/form-data">
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                    <div class="col-md-8">
+                                        <div class="card-body padding_change_password">
+                                            <h3 class="title_change_password">CREATE ADMIN</h3>
+                                            <hr class="mt-0 mb-4">
+                                            <div class="row d-flex justify-content-center align-items-center">
+                                                <div class="form-group col-12 mb-3">
+                                                    <input asp-for="FullName" class="form-control input_change_password" placeholder="Full Name">
+                                                    <span asp-validation-for="FullName" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group col-12 mb-3">
+                                                    <input asp-for="Email" class="form-control input_change_password" placeholder="Email">
+                                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group col-12 mb-3">
+                                                    <input asp-for="Password" class="form-control input_change_password" placeholder="Password">
+                                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group col-12 mb-3">
+                                                    <input asp-for="PhoneNumber" class="form-control input_change_password" placeholder="Phone Number">
+                                                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group col-12 mb-3">
+                                                    <input asp-for="DateOfBirth" class="form-control input_change_password" placeholder="Date of Birth">
+                                                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group col-12 mb-3">
+                                                    <select asp-for="Gender" class="form-control select_create" aria-label="Select Gender">
+                                                        <option value="Male">Male</option>
+                                                        <option value="Female">Female</option>
+                                                    </select>
+                                                    <span asp-validation-for="Gender" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group col-12 mb-3">
+                                                    <select asp-for="Language" class="form-control select_create">
+                                                        <option value="Afrikaans">Afrikaans</option>
+                                                        <option value="Albanian">Albanian</option>
+                                                        <option value="Amharic">Amharic</option>
+                                                        <option value="Arabic">Arabic</option>
+                                                        <option value="Armenian">Armenian</option>
+                                                        <option value="Azerbaijani">Azerbaijani</option>
+                                                        <option value="Basque">Basque</option>
+                                                        <option value="Bengali">Bengali</option>
+                                                        <option value="Bulgarian">Bulgarian</option>
+                                                        <option value="Catalan">Catalan</option>
+                                                        <option value="Chinese Simplified">Chinese Simplified</option>
+                                                        <option value="Chinese Traditional">Chinese Traditional</option>
+                                                        <option value="Croatian">Croatian</option>
+                                                        <option value="Czech">Czech</option>
+                                                        <option value="Danish">Danish</option>
+                                                        <option value="Dutch">Dutch</option>
+                                                        <option value="English">English</option>
+                                                        <option value="Estonian">Estonian</option>
+                                                        <option value="Finnish">Finnish</option>
+                                                        <option value="French">French</option>
+                                                        <option value="Galician">Galician</option>
+                                                        <option value="Georgian">Georgian</option>
+                                                        <option value="German">German</option>
+                                                        <option value="Greek">Greek</option>
+                                                        <option value="Gujarati">Gujarati</option>
+                                                        <option value="Hebrew">Hebrew</option>
+                                                        <option value="Hindi">Hindi</option>
+                                                        <option value="Hungarian">Hungarian</option>
+                                                        <option value="Icelandic">Icelandic</option>
+                                                        <option value="Indonesian">Indonesian</option>
+                                                        <option value="Italian">Italian</option>
+                                                        <option value="Japanese">Japanese</option>
+                                                        <option value="Kannada">Kannada</option>
+                                                        <option value="Kazakh">Kazakh</option>
+                                                        <option value="Khmer">Khmer</option>
+                                                        <option value="Korean">Korean</option>
+                                                        <option value="Lao">Lao</option>
+                                                        <option value="Latvian">Latvian</option>
+                                                        <option value="Lithuanian">Lithuanian</option>
+                                                        <option value="Macedonian">Macedonian</option>
+                                                        <option value="Malay">Malay</option>
+                                                        <option value="Malayalam">Malayalam</option>
+                                                        <option value="Marathi">Marathi</option>
+                                                        <option value="Mongolian">Mongolian</option>
+                                                        <option value="Myanmar (Burmese)">Myanmar (Burmese)</option>
+                                                        <option value="Nepali">Nepali</option>
+                                                        <option value="Persian">Persian</option>
+                                                        <option value="Polish">Polish</option>
+                                                        <option value="Portuguese">Portuguese</option>
+                                                        <option value="Punjabi">Punjabi</option>
+                                                        <option value="Romanian">Romanian</option>
+                                                        <option value="Russian">Russian</option>
+                                                        <option value="Serbian">Serbian</option>
+                                                        <option value="Sesotho">Sesotho</option>
+                                                        <option value="Sinhala">Sinhala</option>
+                                                        <option value="Slovak">Slovak</option>
+                                                        <option value="Slovenian">Slovenian</option>
+                                                        <option value="Spanish">Spanish</option>
+                                                        <option value="Swahili">Swahili</option>
+                                                        <option value="Swedish">Swedish</option>
+                                                        <option value="Tamil">Tamil</option>
+                                                        <option value="Telugu">Telugu</option>
+                                                        <option value="Thai">Thai</option>
+                                                        <option value="Turkish">Turkish</option>
+                                                        <option value="Ukrainian">Ukrainian</option>
+                                                        <option value="Urdu">Urdu</option>
+                                                        <option value="Uzbek">Uzbek</option>
+                                                        <option value="Vietnamese">Vietnamese</option>
+                                                        <option value="Xhosa">Xhosa</option>
+                                                        <option value="Zulu">Zulu</option>
+                                                    </select>
+                                                    <span asp-validation-for="Language" class="text-danger"></span>
+                                                </div>
+                                            </div>
+                                            <div class="form-group" style="text-align: center;">
+                                                <button type="submit" class="btn btn-primary btn_change_password">Create</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+</div>
+
+
+@if (TempData["Success"] != null)
+{
+    <script>
+        swal.fire({
+            title: "Success!",
+            text: "You have successfully created an account",
+            icon: "success",
+        }).then(() => {
+            window.location.href = "./AdminManagement";
+        });
+    </script>
+}
+
+@if (TempData["Fail"] != null)
+{
+    <script>
+        swal.fire({
+            title: "Warning!",
+            text: "Invalid login credentials",
+            icon: "warning",
+        }).then(() => {
+            window.location.href = "./CreateAdmin";
+        });
+    </script>
+}

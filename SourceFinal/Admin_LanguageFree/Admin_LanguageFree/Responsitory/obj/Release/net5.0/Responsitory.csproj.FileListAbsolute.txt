@@ -1,0 +1,102 @@
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.deps.json
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CopyComplete
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\refint\Responsitory.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\ref\Responsitory.dll
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.deps.json
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.dll
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.pdb
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.dll
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.dll
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.pdb
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.pdb
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.AssemblyReference.cache
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.GeneratedMSBuildEditorConfig.editorconfig
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfoInputs.cache
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfo.cs
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CoreCompileInputs.cache
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CopyComplete
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.dll
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\refint\Responsitory.dll
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.pdb
+D:\SVN\Khanh_API_263\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\ref\Responsitory.dll
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.deps.json
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.dll
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.pdb
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.dll
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.dll
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.pdb
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsi.C4AAA213.Up2Date
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.dll
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\refint\Responsitory.dll
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.pdb
+C:\Users\Administrator\Downloads\Admin_LanguageFree\Responsitory\obj\Release\net5.0\ref\Responsitory.dll
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.deps.json
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.dll
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.pdb
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.dll
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.dll
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.pdb
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.pdb
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.AssemblyReference.cache
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.GeneratedMSBuildEditorConfig.editorconfig
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfoInputs.cache
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfo.cs
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CoreCompileInputs.cache
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsi.C4AAA213.Up2Date
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.dll
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\refint\Responsitory.dll
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.pdb
+D:\admin_new\Admin_LanguageFree\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\ref\Responsitory.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsi.C4AAA213.Up2Date
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\refint\Responsitory.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\ref\Responsitory.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\refint\Responsitory.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\ref\Responsitory.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\Admin_LanguageFree\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsi.C4AAA213.Up2Date

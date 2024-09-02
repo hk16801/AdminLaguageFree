@@ -1,0 +1,312 @@
+﻿@page
+@model LanguageClient.Pages.Admin.BlockUserModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+@using Microsoft.AspNetCore.Http
+
+@{
+    var token = HttpContext.Session.GetString("AccessToken");
+    var userName = "";
+    var userId = 0;
+    var role = "";
+    if (token != null)
+    {
+        var tokenParts = token.Split('.');
+        if (tokenParts.Length == 3)
+        {
+            var base64Payload = tokenParts[1];
+            base64Payload = base64Payload.Replace('-', '+').Replace('_', '/');
+            switch (base64Payload.Length % 4)
+            {
+                case 2: base64Payload += "=="; break;
+                case 3: base64Payload += "="; break;
+            }
+            var payloadBytes = Convert.FromBase64String(base64Payload);
+            var jsonPayload = System.Text.Encoding.UTF8.GetString(payloadBytes);
+            dynamic decodedPayload = Newtonsoft.Json.JsonConvert.DeserializeObject(jsonPayload);
+            userName = decodedPayload["UserName"];
+            userId = decodedPayload["UserID"];
+            role = decodedPayload["admin"];
+        }
+        else
+        {
+
+            <pre>Invalid token format</pre>
+        }
+
+    }
+}
+<head>
+    <script src="~/js/javascript/jsAll/BlockUser.js"></script>
+</head>
+<!-- partial -->
+<!-- partial:partials/_sidebar.html -->
+<input type="hidden" id="accessToken" value="@HttpContext.Session.GetString("AccessToken")">
+<nav class="sidebar sidebar-offcanvas" id="sidebar">
+    <ul class="nav">
+        <li class="nav-item">
+            <div class="d-flex sidebar-profile">
+                <div class="sidebar-profile-image">
+                    <img src="http://languagefree.cosplane.asia/Image/@(HttpContext.Session.GetString("imageName"))" alt="image">
+                </div>
+                <div class="sidebar-profile-name">
+                    @if (role == "3")
+                    {
+                        <p class="sidebar-name">
+
+                            Parent Admin
+
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                    @if (role == "2")
+                    {
+                        <p class="sidebar-name">
+                            Admin
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                </div>
+            </div>
+        </li>
+        <h3>Home</h3>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Index">
+                <i class="fa-solid fa-gauge-high menu-icon"></i>
+                <span class="menu-title">Dashboard</span>
+            </a>
+        </li>
+        @if (role == "3")
+        {
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/Admin/AdminManagement">
+                    <i class="fa-solid fa-user-gear menu-icon"></i>
+                    <span class="menu-title">Admin Management</span>
+                </a>
+            </li>
+        }
+        <li class="nav-item active">
+            <a class="nav-link" asp-page="/Admin/BlockUser">
+                <i class="fa-solid fa-user-lock menu-icon"></i>
+                <span class="menu-title">Blacklist Management</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/UserList">
+                <i class="fa-solid fa-user menu-icon"></i>
+                <span class="menu-title">User Management</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/Feedback">
+                <i class="fa-solid fa-comment-dots menu-icon"></i>
+                <span class="menu-title">Feedback</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/Rates">
+                <i class="fa-solid fa-ranking-star menu-icon"></i>
+                <span class="menu-title">Rating</span>
+            </a>
+        </li>
+        <h3>Overview Statistics</h3>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#charts2" aria-expanded="false" aria-controls="charts2">
+                <i class="fa-solid fa-chart-line menu-icon"></i>
+                <span class="menu-title">User Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts2">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersRegistration">
+                        Users Registration
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAccessing">
+                        Used Features
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersGender">
+                        Users Gender
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAge">
+                        Users Age
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#charts3" aria-expanded="false" aria-controls="charts3">
+                <i class="fa-solid fa-chart-column menu-icon"></i>
+                <span class="menu-title">Language Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts3">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/SourceLanguage">
+                        Source Language Used
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/TargetLanguage">
+                        Target Language Used
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </ul>
+</nav>
+<!-- partial -->
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="app-title">
+                    <ul class="app-breadcrumb breadcrumb">
+                         <li class="breadcrumb-item"><a asp-page="/Admin/BlockUser"><h4><b>Black List</b></h4></a></li>
+                        <li class="breadcrumb-item title">
+                            <b>List of Blocked Users and Admins.</b>
+                        </li>
+                    </ul>
+                    <div id="clock"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="table-responsive" style="padding-top: 1rem;">
+                            <table id="multi_col_order" class="table table-striped table-bordered display no-wrap"
+                                   style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th>Image</th>
+                                        <th>Full Name</th>
+                                        <th>Birthday</th>
+                                        <th>Gender</th>
+                                        <th>National</th>
+                                        <th class="ele-block">Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                      @foreach (var user in Model.Users)
+                                    {
+                                        <tr>
+                                            <td> <img src="http://languagefree.cosplane.asia/Image/@user.ImageUser" alt="User Image" /></td>
+                                            <td>@user.FullName</td>
+                                            <td>@user.DateOfBirth.ToString("MMMM dd, yyyy")</td>
+                                            <td>@user.Gender</td>
+                                            <td>@user.National</td>
+                                            <td style="display: flex;justify-content:center;padding: 29px 20px;">
+                                                <a href="#details_user_Modal" class="contain-icon" data-toggle="modal" data-target="#userDetailsModal_@user.UserId" >
+                                                    <i class="mdi mdi-file-find icon_details_user"></i>
+                                                </a>
+                                                <a href="#" class="contain-icon reopenButton" data-userid="@user.UserId" style="background-color: #66f63a;"><i class="fa-solid fa-lock-open" style="font-size:16px" ></i></a>
+                                            </td>
+                                        </tr>
+                                    }
+                                </tbody>
+                                <tr class="pagination_contain"></tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+   @foreach (var user in Model.Users)
+    {
+        <div class="modal fade" id="userDetailsModal_@user.UserId" tabindex="-1" role="dialog" aria-labelledby="userDetailsModalLabel_@user.UserId" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <span class="button_close_modal" onclick="closeModal('@user.UserId')"><i class="mdi mdi-close-circle-outline"></i></span>
+                        <div class="row">
+                            <div class="col-md-3 border-right image_details">
+                                <div class="d-flex flex-column align-items-center text-center p-3 py-5">
+                                    <img class="rounded-circle mt-5" width="150px" height="150px" src="http://languagefree.cosplane.asia/Image/@user.ImageUser"><span class="name_details">@user.FullName</span><span class="name_details_email">@user.Email</span><span> </span>
+                                </div>
+                            </div>
+                            <div class="col-md-9 border-right">
+                                <div class="py-4 px-5 user_details">
+                                        <h4 class="title_details">User Details</h4>
+                                    <div class="row contain_details_info">
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">
+                                                Full Name
+                                            </label><input type="text" class="form-control data_details" value="@user.FullName" readonly>
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">Phone Number</label><input type="text"
+                                                                                                          class="form-control data_details" readonly value="@user.Phone">
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">Email</label><input type="text"
+                                                                                                   class="form-control data_details" readonly value="@user.Email">
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">
+                                                Birthday
+                                            </label><input type="text" class="form-control data_details" readonly value="@user.DateOfBirth.ToString("MMMM dd, yyyy")">
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">Gender</label><input type="text"
+                                                                                                    class="form-control data_details" readonly value="@user.Gender">
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">Nationality</label><input type="text"
+                                                                                                         class="form-control data_details" readonly value="@user.National" value="@user.National">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        function closeModal(userId) {
+            var modal = document.getElementById('userDetailsModal_' + userId);
+            if (modal) {
+                modal.classList.remove('show');
+                modal.style.display = 'none';
+                modal.setAttribute('aria-hidden', 'true');
+                modal.setAttribute('aria-modal', 'false');
+            }
+        }
+    </script>
+    <!-- content-wrapper ends -->
+    <!-- partial:~/~/partials/_footer.html -->
+     <footer class="footer">
+        <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-center text-sm-left d-block d-sm-inline-block">
+                Copyright © <a asp-page="# target="_blank" style="color: #193978; font-weight: bold;">SEP409.G9</a> 2024
+            </span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">
+            Data dashboard from <a asp-page="#" target="_blank" style="color: #193978; font-weight: bold;">Language Free</a> application
+            </span>
+        </div>
+    </footer>
+    <!-- partial -->
+</div>
+<!-- main-panel ends -->
+

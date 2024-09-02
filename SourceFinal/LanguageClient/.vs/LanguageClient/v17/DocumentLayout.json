@@ -1,0 +1,1729 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\login\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\login\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\usercharts\\usersaccessing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\usercharts\\usersaccessing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\createadmin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\createadmin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\editprofileadmin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\editprofileadmin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\createadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\createadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\editprofileadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\editprofileadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\feedback.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\adminmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\adminmanagement.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\login\\confirmmailsuccess.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\login\\confirmmailsuccess.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\login\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\usercharts\\usersage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\usercharts\\usersage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\rates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\rates.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\blockuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\blockuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\assets\\images\\faces\\admin.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\assets\\images\\faces\\admin.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\assets\\images\\faces\\background_title.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\assets\\images\\faces\\background_title.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\adminmanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\adminmanagement.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\dto\\usertempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\dto\\usertempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\usercharts\\usersregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\usercharts\\usersregistration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\usercharts\\usersgender.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\usercharts\\usersgender.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\languagecharts\\targetlanguage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\languagecharts\\targetlanguage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\languagecharts\\sourcelanguage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\languagecharts\\sourcelanguage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\login\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\login\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\usercharts\\usersregistration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\usercharts\\usersregistration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\usercharts\\usersgender.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\usercharts\\usersgender.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\usercharts\\usersage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\usercharts\\usersage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\usercharts\\usersaccessing.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\usercharts\\usersaccessing.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\languagecharts\\targetlanguage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\languagecharts\\targetlanguage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\languagecharts\\sourcelanguage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\languagecharts\\sourcelanguage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\userlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\userlist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\rates.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\rates.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\feedback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\feedback.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\admin\\blockuser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\admin\\blockuser.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\model\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\model\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\model\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\model\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\model\\pagescreens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\model\\pagescreens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\model\\languagelogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\model\\languagelogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\model\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\model\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\model\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\model\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\model\\accesslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\model\\accesslogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\feedback.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\feedback.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\createadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\createadmin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\changepassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\changepassword.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\allchart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\allchart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\chart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\languageclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\languageclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\setup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\setup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\allchart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\allchart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\feedback.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\feedback.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\template.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\template.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\scrollreveal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\scrollreveal.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\settings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\settings.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\tempusdominus-bootstrap-4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\tempusdominus-bootstrap-4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\todolist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\todolist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\style\\style_for_pages\\userlist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\style\\style_for_pages\\userlist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\obj\\Debug\\net5.0\\Razor\\Pages\\Dashboard.cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\OpinionsHub\\Rating.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\OpinionsHub\\Rating.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\TranslationAnalysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\ScreensAnalysis.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\setup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\TranslationAnalysis.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\AllChart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\ScreensAnalysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\userlist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\feedback.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\allchart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\datatable\\datatable-basic.init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\datatable\\datatable-basic.init.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.datatables.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.datatables.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.datatables.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.datatables.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\datatables.net-bs4\\js\\datatables.bootstrap4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\datatables.net-bs4\\js\\datatables.bootstrap4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\datatables.net-bs4\\css\\datatables.bootstrap4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\datatables.net-bs4\\css\\datatables.bootstrap4.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\datatables.net\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\datatables.net\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\datatable\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\datatable\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\datatables.net\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\datatables.net\\license.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\userlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\userlist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\javascript_for_pages\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\assets\\vendors\\chart.js\\chart.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\assets\\vendors\\chart.js\\chart.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\off-canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\off-canvas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\hoverable-collapse.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\hoverable-collapse.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\js\\javascript\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\js\\javascript\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|c:\\users\\admin\\onedrive - \u0111\u1EA1i h\u1ECDc fpt- fpt university\\documents\\sourcefinal\\languageclient\\languageclient\\languageclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8B58B11-C2D1-4460-9D3C-356F856F264A}|LanguageClient\\LanguageClient.csproj|solutionrelative:languageclient\\languageclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dash_group_backup\\LanguageClient\\LanguageClient\\LanguageClient\\Pages\\Admin\\ConfirmMailSuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dash_group_backup\\LanguageClient\\LanguageClient\\LanguageClient\\Pages\\Admin\\ConfirmMailSuccess.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Model\\Users.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Users.cs",
+              "RelativeToolTip": "LanguageClient\\Model\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:01:24.307Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:50:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:60:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:62:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateAdmin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\CreateAdmin.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\CreateAdmin.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\CreateAdmin.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\CreateAdmin.cshtml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:06:05.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersAccessing.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersAccessing.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\UserCharts\\UsersAccessing.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersAccessing.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\UserCharts\\UsersAccessing.cshtml",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAAAKwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T08:02:49.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAwIIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:56:45.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditProfileAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\EditProfileAdmin.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\EditProfileAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\EditProfileAdmin.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\EditProfileAdmin.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAO4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T12:11:54.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Login\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\Login.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Login\\Login.cshtml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:11:55.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\CreateAdmin.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\CreateAdmin.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\CreateAdmin.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\CreateAdmin.cshtml",
+              "ViewState": "AQIAAL0AAAAAAAAAAAApwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T08:16:35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditProfileAdmin.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\EditProfileAdmin.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\EditProfileAdmin.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\EditProfileAdmin.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\EditProfileAdmin.cshtml.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAIAwwF8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T12:05:46.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Feedback.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\Feedback.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\Feedback.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\Feedback.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\Feedback.cshtml",
+              "ViewState": "AQIAACEBAAAAAAAAAAAAADQBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T14:29:14.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminManagement.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\AdminManagement.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\AdminManagement.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\AdminManagement.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\AdminManagement.cshtml",
+              "ViewState": "AQIAAPYAAAAAAAAAAIAwwBIBAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T15:44:23.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Startup.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Startup.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Startup.cs",
+              "RelativeToolTip": "LanguageClient\\Startup.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAEwFEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:39:16.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfirmMailSuccess.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\ConfirmMailSuccess.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Login\\ConfirmMailSuccess.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\ConfirmMailSuccess.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Login\\ConfirmMailSuccess.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T00:26:10.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:25:13.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\ChangePassword.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\ChangePassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T08:45:26.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\UserList.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\UserList.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\UserList.cshtml",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAAAPAAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T14:17:05.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\ChangePassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\ChangePassword.cshtml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAEwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:05:09.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Login\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\ResetPassword.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Login\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-25T05:12:16.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Index.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Index.cshtml",
+              "ViewState": "AQIAALwBAAAAAAAAAAAAAMYBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:56:37.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersAge.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersAge.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\UserCharts\\UsersAge.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersAge.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\UserCharts\\UsersAge.cshtml",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAYwJAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T08:09:18.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\Login.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Login\\Login.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T15:07:19.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Rates.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\Rates.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\Rates.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\Rates.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\Rates.cshtml",
+              "ViewState": "AQIAABgBAAAAAAAAAAAhwCgBAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T08:07:25.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "ConfirmMailSuccess.cshtml",
+              "DocumentMoniker": "D:\\dash_group_backup\\LanguageClient\\LanguageClient\\LanguageClient\\Pages\\Admin\\ConfirmMailSuccess.cshtml",
+              "ToolTip": "D:\\dash_group_backup\\LanguageClient\\LanguageClient\\LanguageClient\\Pages\\Admin\\ConfirmMailSuccess.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T18:26:56.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BlockUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\BlockUser.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\BlockUser.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\BlockUser.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\BlockUser.cshtml",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAhwPMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T22:57:22.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "ConfirmMailSuccess.cshtml.cs",
+              "DocumentMoniker": "D:\\dash_group_backup\\LanguageClient\\LanguageClient\\LanguageClient\\Pages\\Admin\\ConfirmMailSuccess.cshtml.cs",
+              "ToolTip": "D:\\dash_group_backup\\LanguageClient\\LanguageClient\\LanguageClient\\Pages\\Admin\\ConfirmMailSuccess.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T20:24:12.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\login.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\login.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\login.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\login.css",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T18:20:43.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "background_title.png - PNG [2000x40, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\images\\faces\\background_title.png",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\assets\\images\\faces\\background_title.png",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\images\\faces\\background_title.png - PNG [2000x40, 32 bit, PNG]",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\assets\\images\\faces\\background_title.png - PNG [2000x40, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-30T20:45:23.865Z",
+              "EditorCaption": " - PNG [2000x40, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "admin.png - PNG [512x512, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\images\\faces\\admin.png",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\assets\\images\\faces\\admin.png",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\images\\faces\\admin.png - PNG [512x512, 32 bit, PNG]",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\assets\\images\\faces\\admin.png - PNG [512x512, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-03-30T20:45:30.022Z",
+              "EditorCaption": " - PNG [512x512, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminManagement.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\AdminManagement.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\AdminManagement.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\AdminManagement.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\AdminManagement.cshtml.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwGsAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:58:05.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserTempDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\DTO\\UserTempDTO.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\DTO\\UserTempDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\DTO\\UserTempDTO.cs",
+              "RelativeToolTip": "LanguageClient\\DTO\\UserTempDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T18:59:38.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsersRegistration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersRegistration.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\UserCharts\\UsersRegistration.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersRegistration.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\UserCharts\\UsersRegistration.cshtml",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAAAHgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T08:02:17.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsersGender.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersGender.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\UserCharts\\UsersGender.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersGender.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\UserCharts\\UsersGender.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T08:10:06.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TargetLanguage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\LanguageCharts\\TargetLanguage.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\LanguageCharts\\TargetLanguage.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\LanguageCharts\\TargetLanguage.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\LanguageCharts\\TargetLanguage.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T08:05:49.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SourceLanguage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\LanguageCharts\\SourceLanguage.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\LanguageCharts\\SourceLanguage.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\LanguageCharts\\SourceLanguage.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\LanguageCharts\\SourceLanguage.cshtml",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAI4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T08:05:17.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Login\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Login\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Login\\ResetPassword.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:12:11.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UsersRegistration.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersRegistration.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\UserCharts\\UsersRegistration.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersRegistration.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\UserCharts\\UsersRegistration.cshtml.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAAAP8AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:10:22.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UsersGender.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersGender.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\UserCharts\\UsersGender.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersGender.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\UserCharts\\UsersGender.cshtml.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAANcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T17:57:34.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UsersAge.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersAge.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\UserCharts\\UsersAge.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersAge.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\UserCharts\\UsersAge.cshtml.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAABABAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:01:35.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UsersAccessing.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersAccessing.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\UserCharts\\UsersAccessing.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\UserCharts\\UsersAccessing.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\UserCharts\\UsersAccessing.cshtml.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAPAAAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T08:07:18.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TargetLanguage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\LanguageCharts\\TargetLanguage.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\LanguageCharts\\TargetLanguage.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\LanguageCharts\\TargetLanguage.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\LanguageCharts\\TargetLanguage.cshtml.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAAAIBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:57:17.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SourceLanguage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\LanguageCharts\\SourceLanguage.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\LanguageCharts\\SourceLanguage.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\LanguageCharts\\SourceLanguage.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\LanguageCharts\\SourceLanguage.cshtml.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAACsFAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T11:31:57.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\UserList.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\UserList.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\UserList.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\UserList.cshtml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEQAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:37:07.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Rates.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\Rates.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\Rates.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\Rates.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\Rates.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAEwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T09:06:46.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Feedback.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\Feedback.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\Feedback.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\Feedback.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\Feedback.cshtml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAIkAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:24:31.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BlockUser.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\BlockUser.cshtml.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Admin\\BlockUser.cshtml.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Admin\\BlockUser.cshtml.cs",
+              "RelativeToolTip": "LanguageClient\\Pages\\Admin\\BlockUser.cshtml.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAFIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:04:34.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Settings.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Model\\Settings.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Settings.cs",
+              "RelativeToolTip": "LanguageClient\\Model\\Settings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T10:35:20.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Rates.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Rates.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Model\\Rates.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Rates.cs",
+              "RelativeToolTip": "LanguageClient\\Model\\Rates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:13:06.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PageScreens.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\PageScreens.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Model\\PageScreens.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\PageScreens.cs",
+              "RelativeToolTip": "LanguageClient\\Model\\PageScreens.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:09:04.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LanguageLogs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\LanguageLogs.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Model\\LanguageLogs.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\LanguageLogs.cs",
+              "RelativeToolTip": "LanguageClient\\Model\\LanguageLogs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:56:01.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Comments.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Model\\Comments.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Comments.cs",
+              "RelativeToolTip": "LanguageClient\\Model\\Comments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T06:08:03.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Accounts.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Model\\Accounts.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\Accounts.cs",
+              "RelativeToolTip": "LanguageClient\\Model\\Accounts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T11:36:13.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AccessLogs.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\AccessLogs.cs",
+              "RelativeDocumentMoniker": "LanguageClient\\Model\\AccessLogs.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Model\\AccessLogs.cs",
+              "RelativeToolTip": "LanguageClient\\Model\\AccessLogs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:28:57.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T20:37:01.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\style.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\style.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\style.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\style.css",
+              "ViewState": "AQIAAKMDAAAAAAAAAAAAwL8DAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-23T15:31:45.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "createadmin.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\createadmin.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\createadmin.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\createadmin.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\createadmin.css",
+              "ViewState": "AQIAAL4AAAAAAAAAAAAAwOUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T18:20:03.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "feedback.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\feedback.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\feedback.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\feedback.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\feedback.css",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAwGsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T18:20:33.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "profile.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\profile.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\profile.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\profile.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\profile.css",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAwJ0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T18:20:51.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "changepassword.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\changepassword.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\changepassword.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\changepassword.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\changepassword.css",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAwLEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-26T18:19:46.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\dashboard.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\dashboard.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\dashboard.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\dashboard.css",
+              "ViewState": "AQIAAPICAAAAAAAAAAAAwBkDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T21:12:19.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LanguageClient",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\LanguageClient.csproj",
+              "RelativeDocumentMoniker": "LanguageClient\\LanguageClient.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\LanguageClient.csproj",
+              "RelativeToolTip": "LanguageClient\\LanguageClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T15:12:32.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "chart.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\chart.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\chart.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\chart.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\chart.js",
+              "ViewState": "AQIAAD0BAAAAAAAAAAAAAFYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-03T14:44:39.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "allchart.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\allchart.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\allchart.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\allchart.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\allchart.js",
+              "ViewState": "AQIAAHsCAAAAAAAAAAAAAIwCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-03T13:15:38.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\dashboard.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\dashboard.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\dashboard.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\dashboard.js",
+              "ViewState": "AQIAANIDAAAAAAAAAAAAAN8DAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-03T13:15:42.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Error.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-20T21:59:21.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "setup.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\setup.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\setup.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\setup.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\setup.css",
+              "ViewState": "AQIAAM9qAAAAAAAAAAAewOBqAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T16:12:34.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "allchart.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\allchart.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\allchart.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\allchart.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\allchart.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-21T14:44:09.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "feedback.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\feedback.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\feedback.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\feedback.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\feedback.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-03T13:15:40.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "LanguageClient\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "LanguageClient\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T13:57:04.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "scrollreveal.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\scrollreveal.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\scrollreveal.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\scrollreveal.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\scrollreveal.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-10T18:38:50.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "settings.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\settings.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\settings.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\settings.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\settings.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-10T18:38:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "template.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\template.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\template.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\template.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\template.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-10T18:40:58.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "tempusdominus-bootstrap-4.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\tempusdominus-bootstrap-4.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\tempusdominus-bootstrap-4.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\tempusdominus-bootstrap-4.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\tempusdominus-bootstrap-4.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-20T21:15:04.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "todolist.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\todolist.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\todolist.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\todolist.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\todolist.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-10T18:38:54.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "userlist.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\userlist.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\style\\style_for_pages\\userlist.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\style\\style_for_pages\\userlist.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\style\\style_for_pages\\userlist.css",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-20T16:12:27.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Rating.cshtml",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\OpinionsHub\\Rating.cshtml",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\OpinionsHub\\Rating.cshtml",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAcwI8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T07:02:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "datatable-basic.init.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\datatable\\datatable-basic.init.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\datatable\\datatable-basic.init.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\datatable\\datatable-basic.init.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\datatable\\datatable-basic.init.js",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-11T11:20:55.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Rating.cshtml.cs",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\OpinionsHub\\Rating.cshtml.cs",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\OpinionsHub\\Rating.cshtml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:03:25.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "TranslationAnalysis.cshtml",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\TranslationAnalysis.cshtml",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\TranslationAnalysis.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T15:05:28.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ScreensAnalysis.cshtml.cs",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\ScreensAnalysis.cshtml.cs",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\ScreensAnalysis.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:38:08.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "jquery.dataTables.min.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.dataTables.min.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.dataTables.min.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.dataTables.min.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.dataTables.min.js",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJkAAAC/AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-11T12:34:51.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "setup.css",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\setup.css",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\setup.css",
+              "ViewState": "AQIAALAlAAAAAAAAAAAjwL8lAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-11T07:34:14.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "jquery.dataTables.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.dataTables.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.dataTables.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.dataTables.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\js\\jquery.dataTables.js",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAMk7AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-11T12:21:35.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "dataTables.bootstrap4.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net-bs4\\js\\dataTables.bootstrap4.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net-bs4\\js\\dataTables.bootstrap4.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net-bs4\\js\\dataTables.bootstrap4.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net-bs4\\js\\dataTables.bootstrap4.js",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-11T12:22:00.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "dataTables.bootstrap4.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net-bs4\\css\\dataTables.bootstrap4.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net-bs4\\css\\dataTables.bootstrap4.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net-bs4\\css\\dataTables.bootstrap4.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net-bs4\\css\\dataTables.bootstrap4.css",
+              "ViewState": "AQIAACsAAAAAAAAAAAAjwDoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-11T11:21:05.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\package.json",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\package.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\package.json",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\package.json",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T14:45:36.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\datatable\\data.json",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\datatable\\data.json",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\datatable\\data.json",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\datatable\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-11T12:51:29.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "License.txt",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\License.txt",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\License.txt",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\License.txt",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\datatables.net\\License.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-11T14:45:34.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "TranslationAnalysis.cshtml.cs",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\TranslationAnalysis.cshtml.cs",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\TranslationAnalysis.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T11:38:30.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AllChart.cshtml",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\AllChart.cshtml",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\AllChart.cshtml",
+              "ViewState": "AQIAADwBAAAAAAAAAAAAAHQBAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T15:06:25.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ScreensAnalysis.cshtml",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\ScreensAnalysis.cshtml",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\Pages\\Charts\\ScreensAnalysis.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T15:04:57.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "userlist.css",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\userlist.css",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\userlist.css",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-03T14:42:49.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "dashboard.css",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\dashboard.css",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\dashboard.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-03T14:42:33.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\style.css",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-03T14:42:48.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "feedback.css",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\feedback.css",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\feedback.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-03T14:42:44.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "allchart.css",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\allchart.css",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\style\\allchart.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-03T14:42:29.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "userlist.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\userlist.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\userlist.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\userlist.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\userlist.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-11T08:17:11.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\login.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\login.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\login.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\javascript_for_pages\\login.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-11T08:17:08.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-11T07:38:22.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "vendor.bundle.base.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\assets\\vendors\\css\\vendor.bundle.base.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-11T07:57:11.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Chart.min.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\assets\\vendors\\chart.js\\Chart.min.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-03T14:43:38.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "off-canvas.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\off-canvas.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\off-canvas.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\off-canvas.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\off-canvas.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-10T18:38:49.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "hoverable-collapse.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\hoverable-collapse.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\hoverable-collapse.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\hoverable-collapse.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\hoverable-collapse.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-10T18:38:49.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\script.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\js\\javascript\\script.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\js\\javascript\\script.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\js\\javascript\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-10T18:36:04.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Dashboard.cshtml.g.cs",
+              "DocumentMoniker": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\obj\\Debug\\net5.0\\Razor\\Pages\\Dashboard.cshtml.g.cs",
+              "ToolTip": "D:\\DA-Flutter\\Test_group\\LanguageClient\\LanguageClient\\obj\\Debug\\net5.0\\Razor\\Pages\\Dashboard.cshtml.g.cs",
+              "ViewState": "AQIAAIwDAAAAAAAAAAAAAKUDAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:14:16.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "vendor.bundle.base.js",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js",
+              "RelativeDocumentMoniker": "LanguageClient\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js",
+              "RelativeToolTip": "LanguageClient\\wwwroot\\assets\\vendors\\js\\vendor.bundle.base.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-03T14:43:30.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "LanguageClient.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\LanguageClient.csproj",
+              "RelativeDocumentMoniker": "LanguageClient\\LanguageClient.csproj",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - \u0110\u1EA1i h\u1ECDc FPT- FPT University\\Documents\\SourceFinal\\LanguageClient\\LanguageClient\\LanguageClient.csproj",
+              "RelativeToolTip": "LanguageClient\\LanguageClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-03T14:15:07.053Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

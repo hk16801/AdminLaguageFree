@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2024-04-01T21:51:52.3468827Z||;True|2024-04-02T04:47:29.3825438+07:00||;True|2024-04-02T04:39:33.8491289+07:00||;True|2024-04-02T04:22:40.9637368+07:00||;True|2024-04-02T04:08:03.0686320+07:00||;True|2024-04-02T03:57:01.3975048+07:00||;True|2024-03-30T05:51:52.6260934+07:00||;True|2024-03-29T21:27:12.2558002+07:00||;True|2024-03-29T21:09:42.1549282+07:00||;True|2024-03-29T21:05:38.5610742+07:00||;True|2024-03-29T20:41:21.2131952+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

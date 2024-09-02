@@ -1,0 +1,1086 @@
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\AccountsAnalysis.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\AllChart.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\LanguagesAnalysis.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\ScreensAnalysis.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\TranslationAnalysis.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\UsersAnalysis.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\OpinionsHub\Rating.cshtml.g.cs
+D:\DA-Flutter\Test_group\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\AccountsAnalysis.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\AllChart.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\LanguagesAnalysis.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\ScreensAnalysis.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\TranslationAnalysis.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\UsersAnalysis.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\OpinionsHub\Rating.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\New folder\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CopyComplete
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\AccountsAnalysis.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\LanguagesAnalysis.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\UsersAnalysis.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+C:\Users\Admin\Downloads\LanguageClient (1)\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\AccountsAnalysis.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\LanguagesAnalysis.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\UsersAnalysis.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+D:\srcSVN\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\AccountsAnalysis.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\LanguagesAnalysis.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Charts\UsersAnalysis.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+F:\srcSVNN\ThanhHuy\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CopyComplete
+D:\srcSVNN2\AnhTuyen\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\22_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CopyComplete
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ForgotPassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Pictures\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ForgotPassword.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\PC\Downloads\New folder\25_3\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ForgotPassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+D:\srcSVNN2\Tuyen2\LanguageClient\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ConfirmMailSuccess.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.json
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ConfirmMailSuccess.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CopyComplete
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\PC\Downloads\New folder\27_3\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\FluentValidation.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ConfirmMailSuccess.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CopyComplete
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\FluentValidation.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ConfirmMailSuccess.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ConfirmMailSuccess.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Desktop\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.json
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\FluentValidation.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.dll
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ConfirmMailSuccess.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CopyComplete
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+F:\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\appsettings.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\package-lock.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\package.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Debug\net5.0\Ocelot.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ConfirmMailSuccess.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\Language.E08D7EA5.Up2Date
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\refint\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Debug\net5.0\ref\LanguageClient.dll

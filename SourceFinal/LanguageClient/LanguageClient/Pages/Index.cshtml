@@ -1,0 +1,485 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+@using Microsoft.AspNetCore.Http
+
+@{
+    var token = HttpContext.Session.GetString("AccessToken");
+    var userName = "";
+    var userId = 0;
+    var role = "";
+    if (token != null)
+    {
+        var tokenParts = token.Split('.');
+        if (tokenParts.Length == 3)
+        {
+            var base64Payload = tokenParts[1];
+            base64Payload = base64Payload.Replace('-', '+').Replace('_', '/');
+            switch (base64Payload.Length % 4)
+            {
+                case 2: base64Payload += "=="; break;
+                case 3: base64Payload += "="; break;
+            }
+            var payloadBytes = Convert.FromBase64String(base64Payload);
+            var jsonPayload = System.Text.Encoding.UTF8.GetString(payloadBytes);
+            dynamic decodedPayload = Newtonsoft.Json.JsonConvert.DeserializeObject(jsonPayload);
+            userName = decodedPayload["UserName"];
+            userId = decodedPayload["UserID"];
+            role = decodedPayload["admin"];
+        }
+        else
+        {
+
+            <pre>Invalid token format</pre>
+        }
+
+    }
+}
+<!-- partial -->
+<!-- partial:partials/_sidebar.html -->
+<nav class="sidebar sidebar-offcanvas" id="sidebar">
+    <ul class="nav">
+        <li class="nav-item">
+            <div class="d-flex sidebar-profile">
+                <div class="sidebar-profile-image">
+                    <img src="http://languagefree.cosplane.asia/Image/@(HttpContext.Session.GetString("imageName"))" alt="image">
+                </div>
+                <div class="sidebar-profile-name">
+                    @if (role == "3")
+                    {
+                        <p class="sidebar-name">
+
+                           Parent Admin
+
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                    @if (role == "2")
+                    {
+                        <p class="sidebar-name">
+                            Admin
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                </div>
+            </div>
+        </li>
+        <h3>Home</h3>
+        <li class="nav-item active">
+            <a class="nav-link" asp-page="/Index">
+                <i class="fa-solid fa-gauge-high menu-icon"></i>
+                <span class="menu-title">Dashboard</span>
+            </a>
+        </li>
+        @if (role == "3")
+        {
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/Admin/AdminManagement">
+                    <i class="fa-solid fa-user-gear menu-icon"></i>
+                <span class="menu-title">Admin Management</span>
+            </a>
+        </li>
+        }
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/BlockUser">
+                <i class="fa-solid fa-user-lock menu-icon"></i>
+                <span class="menu-title">Blacklist Management</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/UserList">
+                <i class="fa-solid fa-user menu-icon"></i>
+                <span class="menu-title">User Management</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/Feedback">
+                <i class="fa-solid fa-comment-dots menu-icon"></i>
+                <span class="menu-title">Feedback</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/Rates">
+                <i class="fa-solid fa-ranking-star menu-icon"></i>
+                <span class="menu-title">Rating</span>
+            </a>
+        </li>
+        <h3>Overview Statistics</h3>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#charts2" aria-expanded="false" aria-controls="charts2">
+                <i class="fa-solid fa-chart-line menu-icon"></i>
+                <span class="menu-title">User Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts2">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersRegistration">
+                        Users Registration
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAccessing">
+                        Used Features
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersGender">
+                        Users Gender
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAge">
+                        Users Age
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#charts3" aria-expanded="false" aria-controls="charts3">
+                <i class="fa-solid fa-chart-column menu-icon"></i>
+                <span class="menu-title">Language Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts3">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/SourceLanguage">
+                        Source Language Used
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/TargetLanguage">
+                        Target Language Used
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </ul>
+</nav>
+<!-- partial -->
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="app-title">
+                <ul class="app-breadcrumb breadcrumb side">
+                   <li class="breadcrumb-item active"><a asp-page="Index"><h4><b>Dashboard</></b></h4></a></li>
+                    <li class="breadcrumb-item title"><b>Overview statistics page of the Language Free application.</b></li>
+                </ul>
+                <div id="clock"></div>
+            </div>
+        </div>
+        <div class="row row-col-ele">
+            <div class="col-md-3">
+                <div class="widget-small info coloured-icon">
+                    <i class="icon fa-solid fa-people-line"></i>
+                    <div class="info">
+                        <h4>Total Users</h4>
+                        <p><b>@Model.TotalUserIds Users</b></p>
+                        <p class="info-tong">Total number of registered accounts.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="widget-small primary coloured-icon">
+                    <i class="icon fa-solid fa-right-to-bracket"></i>
+                    <div class="info">
+                        <h4>Total Used</h4>
+                        <p><b>@Model.TotalAccessLogsIds Visits</b></p>
+                        <p class="info-tong">Total number of times users use features.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="widget-small danger coloured-icon">
+                    <i class="icon fa-solid fa-comment-dots"></i>
+                    <div class="info">
+                        <h4>Total Feebacks</h4>
+                        <p><b>@Model.TotalCommentsIds Feebacks</b></p>
+                        <p class="info-tong">Total feedbacks for the application.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div id="AverageRateIds" class="widget-small warning coloured-icon">
+                    <p class="rating-result">@Model.AverageRateIds</p></i>
+                    <div class="info">
+                        <h4>Overall Rating</h4>
+                        <p><b>Based on @Model.TotalRatesIds reviews</b></p>
+                        <p class="info-tong" id="Average_Star_Icon"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row mt-3">
+            <div class="col-xl-5 d-flex grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-wrap justify-content-between">
+                            <h4 class="card-title mb-3">Most Used Feature (%)</h4>
+                        </div>
+                        <div class="mt-2">
+                            <div class="d-flex justify-content-between">
+                                <small>@Model.Most_Used_Name</small>
+                                <small>@Model.Most_Used_Percentage%</small>
+                            </div>
+                            <div class="progress progress-md  mt-2">
+                                <div class="progress-bar bg-cool" role="progressbar" style="width: @Model.Most_Used_Percentage%"
+                                     aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="mt-4">
+                            <div class="d-flex justify-content-between">
+                                <small>@Model.Second_Used_Name</small>
+                                <small>@Model.Second_Used_Percentage%</small>
+
+                            </div>
+                            <div class="progress progress-md  mt-2">
+                                <div class="progress-bar bg-hot" role="progressbar" style="width: @Model.Second_Used_Percentage%"
+                                     aria-valuenow="26" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <div class="mt-4 mb-5">
+                            <div class="d-flex justify-content-between">
+                                <small>@Model.Third_Used_Name</small>
+                                <small>@Model.Third_Used_Percentage%</small>
+                            </div>
+                            <div class="progress progress-md mt-2">
+                                <div class="progress-bar bg-orange" role="progressbar" style="width: @Model.Third_Used_Percentage%"
+                                     aria-valuenow="12" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                        <canvas id="MultiLine_Most_Function" data-chart-data='{
+    "labels": ["@Model.Earliest_Usage_Date.ToString("dd/MM/yyyy")", "@Model.Mid_Usage_Date.ToString("dd/MM/yyyy")", "@Model.Latest_Usage_Date.ToString("dd/MM/yyyy")"],
+    "datasets": [
+        {
+            "label": "Third Used",
+            "data": [@Model.EarliestMostUsedId, @Model.MidMostUsedId, @Model.LatestMostUsedId],
+            "borderColor": "#f71848",
+            "borderWidth": 2,
+            "fill": false
+        },
+        {
+            "label": "Second Used",
+            "data": [@Model.EarliestSecondUsedId, @Model.MidSecondUsedId, @Model.LatestSecondUsedId],
+            "borderColor": "#ffca1d",
+            "borderWidth": 2,
+            "fill": false
+        },
+        {
+            "label": "Most Used",
+            "data": [@Model.EarliestThirdUsedId, @Model.MidThirdUsedId, @Model.LatestThirdUsedId],
+            "borderColor": "#5356FF",
+            "borderWidth": 2,
+            "fill": false
+        }
+    ]
+}'></canvas>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-7 d-flex grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-wrap justify-content-between">
+                            <h4 class="card-title mb-3">New Users</h4>
+                            <a asp-page="/Admin/UserList" class="see_detail_btn">See Detail</a>
+                            <div class="table-responsive">
+                                @if (Model.UsersTop5Real.Any())
+                                {
+                                    @foreach (var user in Model.UsersTop5Real)
+                                    {
+                                        <table class="table">
+                                            <tbody>
+                                                <tr>
+                                                    <td style="width: 12rem">
+                                                        <div class="d-flex">
+                                                            <img class="img-sm rounded-circle mb-md-0 mr-2"
+                                                                 src="http://languagefree.cosplane.asia/Image/@user.ImageUser" alt="profile image">
+                                                            <div style="padding-top: 0.5rem">
+                                                                <div> Full Name</div>
+                                                                <div class="font-weight-bold mt-1">@user.FullName</div>
+                                                            </div>
+                                                        </div>
+                                                    </td>
+                                                    <td style="width: 6rem">
+                                                        Gender
+                                                        <div class="font-weight-bold  mt-1">@user.Gender</div>
+                                                    </td>
+                                                    <td style="width: 10rem">
+                                                        National
+                                                        <div class="font-weight-bold text-success  mt-1">@user.National</div>
+                                                    </td>
+                                                    <td style="width: 12rem">
+                                                        Birthday
+                                                        <div class="font-weight-bold  mt-1">@user.DateOfBirth.ToString("MMMM dd, yyyy")</div>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    }
+                                }
+                                else
+                                {
+                                    <div class="text-center">There are currently no top 5 users</div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-6 d-flex grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-wrap justify-content-between">
+                            <h4 class="card-title mb-3">Top 5 most selected source languages</h4>
+                            <a  asp-page="/LanguageCharts/SourceLanguage" class="see_detail_btn">See Detail</a>
+                            <div class="col-lg-12 m-t-3">
+                                <canvas id="doughnutPieChart_Top_Source_Language" data-chart-data='{"labels": @Html.Raw(ViewData["lb2"]),"datasets": [{"data": @Html.Raw(ViewData["datas"])}]}'></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 d-flex grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-wrap justify-content-between">
+                            <h4 class="card-title mb-3">Top 5 most selected target languages</h4>
+                            <a asp-page="/LanguageCharts/TargetLanguage" class="see_detail_btn">See Detail</a>
+                            <div class="col-lg-12 m-t-3">
+                                <canvas id="doughnutPieChart_Top_Target_Language" data-chart-data='{"labels": @Html.Raw(ViewData["lb3"]),"datasets": [{"data": @Html.Raw(ViewData["datas2"])}]}'></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-6 d-flex grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-wrap justify-content-between">
+                            <h4 class="card-title mb-3">User Gender Analysis (%)</h4>
+                            <a  asp-page="/UserCharts/UsersGender" class="see_detail_btn">See Detail</a>
+                            <div class="col-lg-12 m-t-3">
+                                <canvas id="barChart_Gender_Analysis" data-gender-user='{"labels":["Male", "Female"],
+                                                                                                        "datasets":[{"label":"Percent","data": [@Model.MalePercentage, @Model.FemalePercentage]}]}'></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-6 d-flex grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-wrap justify-content-between">
+                            <h4 class="card-title mb-3">User Ages Analysis (%)</h4>
+                            <a  asp-page="/UserCharts/UsersAge" class="see_detail_btn">See Detail</a>
+                            <div class="col-lg-12 m-t-3">
+                                <canvas id="barChart_Age_Analysis" data-age-user='{"labels":["7 - 24", "25 - 34", "35 - 44", "45 - 56", "56+"],
+                                                                                                        "datasets":[{"label":"Percent","data": [@Model.Adolescent_Percentage, @Model.Young_Percentage, @Model.Adult_Percentage, @Model.Middle_Percentage, @Model.Elderly_Percentage]}]}'></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 d-flex grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-wrap justify-content-between">
+                            <h4 class="card-title mb-3">User Activity Analysis</h4>
+                            <p class=><b>Timezone:</b> GMT+7 Indochina time</p>
+                            <div class="col-lg-12 m-t-3">
+                                  <canvas id="barChart_User_Activity" data-user-activity='{"labels":["0 - 2", "2 - 4", "4 - 6", "6 - 8", "8 - 10", "10 - 12", "12 - 14", "14 - 16", "16 - 18", "18 - 20", "20 - 22", "22 - 24"],
+        "datasets":[{"label":"# of Hour","data": [@Model.UserActivityCount["0_2"], @Model.UserActivityCount["2_4"], @Model.UserActivityCount["4_6"], @Model.UserActivityCount["6_8"], @Model.UserActivityCount["8_10"], @Model.UserActivityCount["10_12"], @Model.UserActivityCount["12_14"], @Model.UserActivityCount["14_16"], @Model.UserActivityCount["16_18"], @Model.UserActivityCount["18_20"], @Model.UserActivityCount["20_22"], @Model.UserActivityCount["22_24"]]}]}'></canvas>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-12 d-flex grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-wrap justify-content-between">
+                            <h4 class="card-title mb-3">Feedbacks List</h4>
+                            <a  asp-page="/Admin/Feedback" class="see_detail_btn">See Detail</a>
+                        </div>
+                        <div class="table-responsive">
+                            @if (Model.Comments.Any())
+                                {
+                            @foreach (var c in Model.Comments)
+                            {
+                                <table class="table">
+                                    <tbody>
+                                        <tr>
+                                            <td style="width: 5rem">
+                                                @foreach (var u in Model.Users)
+                                                {
+                                                    if (c.UserId == u.UserId)
+                                                    {
+                                                        <div class="d-flex">
+
+                                                            <img class="img-sm rounded-circle mb-md-0 mr-2"
+                                                                 src="http://languagefree.cosplane.asia/Image/@u.ImageUser" alt="profile image">
+                                                            <div style="padding-top: 0.5rem">
+                                                                <div> Full Name</div>
+                                                                <div class="font-weight-bold mt-1">@u.FullName</div>
+                                                            </div>
+
+                                                        </div>
+                                                    }
+                                                }
+                                            </td>
+                                            <td style="width: 6rem">
+                                                <div class="font-weight-bold  mt-1">@c.Timestamp.ToString("MMMM dd, yyyy")</div>
+                                            </td>
+                                            <td style="width: 15rem">
+                                                <div class="font-weight-bold text-success  mt-1">@c.CommentText</div>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            }}else{
+                                <div class="text-center">There are currently no top 5 comments</div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- content-wrapper ends -->
+    <!-- partial:partials/_footer.html -->
+     <footer class="footer">
+        <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-center text-sm-left d-block d-sm-inline-block">
+                Copyright © <a asp-page="# target="_blank" style="color: #193978; font-weight: bold;">SEP409.G9</a> 2024
+            </span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">
+            Data dashboard  from <a asp-page="#" target="_blank" style="color: #193978; font-weight: bold;">Language Free</a> application
+            </span>
+        </div>
+    </footer>
+    <!-- partial -->
+</div>
+

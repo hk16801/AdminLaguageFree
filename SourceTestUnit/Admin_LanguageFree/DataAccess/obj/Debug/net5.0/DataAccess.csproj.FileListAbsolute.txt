@@ -1,0 +1,54 @@
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.csproj.Up2Date
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+D:\SVN\Khanh\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\DataAccess\obj\Debug\net5.0\DataAccess.csproj.Up2Date

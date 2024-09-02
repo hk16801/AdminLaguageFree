@@ -1,0 +1,1421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\accesslogsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\accesslogsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\accountsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\accountsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\adduserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\checkrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\checkrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\checkuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\checkuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\createaccountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\createaccountuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\imageuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\imageuploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\tokenreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\tokenreponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\uservoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\uservoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\usertempiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\usertempiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\usertempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\usertempdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\usersessionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\usersessionresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\usersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\translationhistorysdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\translationhistorysdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\settingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\settingsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\rolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\rolesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\removehisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\removehisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\registadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\registadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\ratesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\ratesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\pagesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\pagesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\languagelogsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\languagelogsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\identifyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\identifyrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\dto\\checkaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\dto\\checkaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\dao\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\usersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\dao\\settingsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\settingsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\model\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\model\\pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\model\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\service\\commentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\service\\commentsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\iservice\\commentsirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\iservice\\commentsirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\dao\\commentsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\commentsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\commentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\iservice\\translationhistorysirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\iservice\\translationhistorysirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\dao\\translationhistorysdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\translationhistorysdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\model\\translationhistorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\translationhistorys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\dao\\ratesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\ratesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\service\\ratesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\service\\ratesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\iservice\\ratesirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\iservice\\ratesirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\model\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\rates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\model\\languagelogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\languagelogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\service\\languagelogsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\service\\languagelogsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\iservice\\languagelogsirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\iservice\\languagelogsirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\iservice\\accountsirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\iservice\\accountsirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\languagelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\languagelogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\dao\\rolesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\rolesdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\iservice\\rolesirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\iservice\\rolesirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\dao\\accountsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\accountsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\model\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\model\\accounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\service\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\service\\accountsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\translationhistoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\translationhistoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\settingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\pagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\accesslogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\accesslogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\language_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\language_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\iservice\\accesslogsirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\iservice\\accesslogsirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\responsitory\\service\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C290EF42-CC1E-4969-87CF-3839E3D368D2}|Responsitory\\Responsitory.csproj|solutionrelative:responsitory\\service\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\dao\\accesslogsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dao\\accesslogsdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ADBD4A30-36DF-4055-9322-2BCD21EEBDD0}|BusinessObject\\BusinessObject.csproj|solutionrelative:businessobject\\businessobject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1A44946-A220-4645-81A3-7FC251E9CE8D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\AppData\\Local\\Temp\\.vsdbgsrc\\95bbf626dc720063e542795ffca1733231002e3bedee37cb2de2f611de2b9db0\\AddressBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\language_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\language_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|c:\\users\\acer\\downloads\\sourcefinal_0504\\sourcefinal\\admin_languagefree\\admin_languagefree\\language_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1FBDA05A-6ADD-4DB4-865B-2520FD41BF28}|Language_API\\Language_API.csproj|solutionrelative:language_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 261,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 77,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenReponse.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\TokenReponse.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\TokenReponse.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\TokenReponse.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\TokenReponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:21:57.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RemoveHisDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\RemoveHisDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\RemoveHisDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\RemoveHisDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\RemoveHisDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:21:51.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistAdminDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\RegistAdminDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\RegistAdminDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\RegistAdminDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\RegistAdminDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:21:26.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PagesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\PagesDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\PagesDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\PagesDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\PagesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:21:23.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageUploadModel.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\ImageUploadModel.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\ImageUploadModel.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\ImageUploadModel.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\ImageUploadModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:20:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateAccountUser.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CreateAccountUser.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\CreateAccountUser.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CreateAccountUser.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\CreateAccountUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:20:19.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckUser.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CheckUser.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\CheckUser.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CheckUser.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\CheckUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:19:27.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CheckRate.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CheckRate.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\CheckRate.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CheckRate.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\CheckRate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:18:51.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CheckAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CheckAccount.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\CheckAccount.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CheckAccount.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\CheckAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:18:06.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserSessionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UserSessionResponse.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\UserSessionResponse.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UserSessionResponse.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\UserSessionResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:58:54.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserVoiceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UserVoiceDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\UserVoiceDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UserVoiceDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\UserVoiceDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:58:50.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserTempIdDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UserTempIdDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\UserTempIdDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UserTempIdDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\UserTempIdDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:57:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UpdateUserDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\UpdateUserDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UpdateUserDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\UpdateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:56:53.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UsersDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\UsersDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UsersDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\UsersDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:55:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserTempDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UserTempDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\UserTempDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\UserTempDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\UserTempDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:55:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Users.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\Users.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Users.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:54:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SettingsDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\SettingsDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\SettingsDAO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\SettingsDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\SettingsDAO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:49:01.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SettingsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\SettingsDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\SettingsDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\SettingsDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\SettingsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:48:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Settings.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\Settings.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Settings.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\Settings.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:48:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Pages.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Pages.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\Pages.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Pages.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\Pages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:47:13.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Comments.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\Comments.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Comments.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\Comments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:47:01.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CommentsDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\CommentsDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\CommentsDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\CommentsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:46:57.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CommentsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\CommentsRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\Service\\CommentsRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\CommentsRepository.cs",
+              "RelativeToolTip": "Responsitory\\Service\\CommentsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:46:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CommentsIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\CommentsIRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\IService\\CommentsIRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\CommentsIRepository.cs",
+              "RelativeToolTip": "Responsitory\\IService\\CommentsIRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:46:38.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TranslationHistorysIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\TranslationHistorysIRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\IService\\TranslationHistorysIRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\TranslationHistorysIRepository.cs",
+              "RelativeToolTip": "Responsitory\\IService\\TranslationHistorysIRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:45:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TranslationHistorysDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\TranslationHistorysDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\TranslationHistorysDAO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\TranslationHistorysDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\TranslationHistorysDAO.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAuwEwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:44:16.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TranslationHistorysDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\TranslationHistorysDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\TranslationHistorysDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\TranslationHistorysDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\TranslationHistorysDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:44:06.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TranslationHistorys.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\TranslationHistorys.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\TranslationHistorys.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\TranslationHistorys.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\TranslationHistorys.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:43:29.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RatesDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\RatesDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\RatesDAO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\RatesDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\RatesDAO.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAtwCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:40:49.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RatesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\RatesRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\Service\\RatesRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\RatesRepository.cs",
+              "RelativeToolTip": "Responsitory\\Service\\RatesRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:40:20.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RatesIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\RatesIRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\IService\\RatesIRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\RatesIRepository.cs",
+              "RelativeToolTip": "Responsitory\\IService\\RatesIRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:39:33.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Rates.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Rates.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\Rates.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Rates.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\Rates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:39:24.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RatesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\RatesDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\RatesDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\RatesDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\RatesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:39:16.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LanguageLogsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\LanguageLogsDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\LanguageLogsDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\LanguageLogsDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\LanguageLogsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:38:11.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LanguageLogs.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\LanguageLogs.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\LanguageLogs.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\LanguageLogs.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\LanguageLogs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:37:45.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LanguageLogsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\LanguageLogsRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\Service\\LanguageLogsRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\LanguageLogsRepository.cs",
+              "RelativeToolTip": "Responsitory\\Service\\LanguageLogsRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:37:18.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LanguageLogsIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\LanguageLogsIRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\IService\\LanguageLogsIRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\LanguageLogsIRepository.cs",
+              "RelativeToolTip": "Responsitory\\IService\\LanguageLogsIRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:37:04.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:50:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:60:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:62:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:63:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:64:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Roles.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\Roles.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Roles.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:33:53.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RolesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\RolesDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\RolesDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\RolesDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\RolesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:33:46.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RolesIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\RolesIRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\IService\\RolesIRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\RolesIRepository.cs",
+              "RelativeToolTip": "Responsitory\\IService\\RolesIRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:33:10.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CommentsDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\CommentsDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\CommentsDAO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\CommentsDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\CommentsDAO.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:32:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RolesDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\RolesDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\RolesDAO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\RolesDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\RolesDAO.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:32:20.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:30:21.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\AddUserDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\AddUserDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\AddUserDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\AddUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T14:30:18.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LanguageLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\LanguageLogsController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\LanguageLogsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\LanguageLogsController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\LanguageLogsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:28:02.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CommentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\CommentsController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\CommentsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\CommentsController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\CommentsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAuwKYBAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:02.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AccessLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\AccessLogsController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\AccessLogsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\AccessLogsController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\AccessLogsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAwIAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "PagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\PagesController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\PagesController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\PagesController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\PagesController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Language_API.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Language_API.csproj",
+              "RelativeDocumentMoniker": "Language_API\\Language_API.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Language_API.csproj",
+              "RelativeToolTip": "Language_API\\Language_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T16:19:01.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\RatesController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\RatesController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\RatesController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\RatesController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:28:56.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\RolesController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\RolesController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAqwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:29:23.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "SettingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\SettingsController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\SettingsController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\SettingsController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\SettingsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAiwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:29:44.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "TranslationHistorysController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\TranslationHistorysController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\TranslationHistorysController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\TranslationHistorysController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\TranslationHistorysController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T10:30:05.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AccountsDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\AccountsDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\AccountsDAO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\AccountsDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\AccountsDAO.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Startup.cs",
+              "RelativeDocumentMoniker": "Language_API\\Startup.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Startup.cs",
+              "RelativeToolTip": "Language_API\\Startup.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAowG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "AddressBinder.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\AppData\\Local\\Temp\\.vsdbgsrc\\95bbf626dc720063e542795ffca1733231002e3bedee37cb2de2f611de2b9db0\\AddressBinder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\95bbf626dc720063e542795ffca1733231002e3bedee37cb2de2f611de2b9db0\\AddressBinder.cs",
+              "ToolTip": "C:\\Users\\Acer\\AppData\\Local\\Temp\\.vsdbgsrc\\95bbf626dc720063e542795ffca1733231002e3bedee37cb2de2f611de2b9db0\\AddressBinder.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\95bbf626dc720063e542795ffca1733231002e3bedee37cb2de2f611de2b9db0\\AddressBinder.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAgwK0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:21:40.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "AccessLogsIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\AccessLogsIRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\IService\\AccessLogsIRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\AccessLogsIRepository.cs",
+              "RelativeToolTip": "Responsitory\\IService\\AccessLogsIRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:46:35.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccessLogsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\AccessLogsDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\AccessLogsDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\AccessLogsDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\AccessLogsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:54:47.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AccessLogsDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\AccessLogsDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\AccessLogsDAO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\AccessLogsDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\AccessLogsDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Language_API",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Language_API.csproj",
+              "RelativeDocumentMoniker": "Language_API\\Language_API.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Language_API.csproj",
+              "RelativeToolTip": "Language_API\\Language_API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T16:19:01.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Program.cs",
+              "RelativeDocumentMoniker": "Language_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Program.cs",
+              "RelativeToolTip": "Language_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AccountsIRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\AccountsIRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\IService\\AccountsIRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\IService\\AccountsIRepository.cs",
+              "RelativeToolTip": "Responsitory\\IService\\AccountsIRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:03.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IdentifyRole.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\IdentifyRole.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\IdentifyRole.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\IdentifyRole.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\IdentifyRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\Service\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\UsersRepository.cs",
+              "RelativeToolTip": "Responsitory\\Service\\UsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:22:07.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DBContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DBContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DBContext.cs",
+              "RelativeToolTip": "DataAccess\\DBContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:19:22.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AccountsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\AccountsRepository.cs",
+              "RelativeDocumentMoniker": "Responsitory\\Service\\AccountsRepository.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Responsitory\\Service\\AccountsRepository.cs",
+              "RelativeToolTip": "Responsitory\\Service\\AccountsRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwEUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:03.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsersDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\UsersDAO.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DAO\\UsersDAO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\DAO\\UsersDAO.cs",
+              "RelativeToolTip": "DataAccess\\DAO\\UsersDAO.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAwKsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\appsettings.json",
+              "RelativeDocumentMoniker": "DataAccess\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\DataAccess\\appsettings.json",
+              "RelativeToolTip": "DataAccess\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T19:08:12.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "BusinessObject.csproj",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\BusinessObject.csproj",
+              "RelativeDocumentMoniker": "BusinessObject\\BusinessObject.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\BusinessObject.csproj",
+              "RelativeToolTip": "BusinessObject\\BusinessObject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T16:19:01.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Accounts.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Accounts.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\Model\\Accounts.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\Model\\Accounts.cs",
+              "RelativeToolTip": "BusinessObject\\Model\\Accounts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:09:54.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Language_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\appsettings.json",
+              "RelativeToolTip": "Language_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T16:19:01.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "Language_API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "Language_API\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-03-30T16:19:01.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Language_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Language_API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T16:19:01.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\AccountsDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\AccountsDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\AccountsDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\AccountsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "BusinessObject\\DTO\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\BusinessObject\\DTO\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "BusinessObject\\DTO\\ChangePasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "Language_API\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Downloads\\SourceFinal_0504\\SourceFinal\\Admin_LanguageFree\\Admin_LanguageFree\\Language_API\\Controllers\\ImageController.cs",
+              "RelativeToolTip": "Language_API\\Controllers\\ImageController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:19:01.998Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

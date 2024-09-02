@@ -1,0 +1,36 @@
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\SVN\Khanh\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceTestUnit\Admin_LanguageFree\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll

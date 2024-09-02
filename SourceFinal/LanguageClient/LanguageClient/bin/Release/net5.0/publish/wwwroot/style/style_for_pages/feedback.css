@@ -1,0 +1,107 @@
+/* ==============FEEDBACK================  */
+.card_body_feedback {
+    padding: 0.5rem 1rem !important;
+    border: none !important;
+    background-color: #f3eeee;
+    margin-bottom: 7px;
+}
+
+.feedback_list_container {
+    max-height: 575px;
+    overflow: scroll;
+}
+
+.label_page {
+    position: absolute;
+    right: 60px;
+    top: 10px;
+    width: 130px;
+    height: 25px;
+    color: #fefefe;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0 10px;
+    border-radius: 2px;
+}
+
+.feedback_profile {
+    position: absolute;
+    right: 15px;
+    top: 9px;
+    height: 25px !important;
+    font-size: 15px !important;
+}
+
+.limit-text {
+    font-size: 1rem;
+    max-width: 920px;
+    width: 920px;
+    overflow: revert-layer;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background: #d6dac8;
+}
+
+.image_feedback {
+    width: 50px;
+    height: 50px;
+}
+
+.name_feedback {
+    width: 250px;
+    min-width: 250px;
+}
+
+span.fa.fa-star {
+    color: #d6dac8;
+    font-size: 30px;
+}
+
+.checked_star {
+    color: #ffc700 !important;
+    margin-right: 5px;
+    font-size: 30px;
+}
+
+.date_feedback {
+    font-size: 12px;
+    margin-bottom: 10px !important;
+}
+
+.star_contain {
+    margin-left: 150px;
+}
+
+.search_input {
+    display: inline-block;
+    max-width: 270px;
+    padding: 0.35rem 0.75rem;
+    border: none;
+    outline: 2px solid #eee;
+    font-weight: 400;
+    font-size: 0.875rem;
+    border-radius: 1px;
+    margin-right: 10px;
+}
+
+    .search_input:focus {
+        outline: 2px solid #193978;
+    }
+
+.search_sumbit {
+    width: 100px !important;
+    display: unset !important;
+    border: none;
+    padding: 7px 0px !important;
+    margin: 0 !important;
+}
+
+.search_form {
+    margin: 20px 50px 20px 0;
+    display: flex;
+    justify-content: end;
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+    filter: invert(100%) hue-rotate(180deg);
+}

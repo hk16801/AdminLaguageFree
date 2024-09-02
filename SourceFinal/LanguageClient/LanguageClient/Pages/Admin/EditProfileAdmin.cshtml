@@ -1,0 +1,246 @@
+﻿@page
+@using System.IO;
+@using Microsoft.AspNetCore.Http;
+@model LanguageClient.Pages.Admin.EditProfileAdminModel
+@{
+    ViewData["Title"] = "Edit Profile";
+
+}
+@{
+    string ConvertImageBytesToBase64(byte[] imageBytes)
+    {
+        return Convert.ToBase64String(imageBytes);
+    }
+
+}
+
+<head>
+
+    <link rel="stylesheet" href="~/style/style_for_pages/profile.css">
+</head>
+
+<div class="main-panel">
+    <div class="content-wrapper">
+
+        <section>
+            <div class="container py-5 h-100">
+                <div class="row d-flex justify-content-center align-items-center h-100">
+                    <div class="col col-lg-12 mb-4 mb-lg-0">
+                        <div class="col-lg-12 card mb-3 unset_border">
+                            <div class="row g-0">
+                                <form class="row-ele form_profile" method="post" enctype="multipart/form-data">
+                                    
+                                    <div class="col-md-3 gradient-custom text-center text-white">
+                                        <div style="display: flex; flex-direction: column;justify-content: center;position: relative;">
+                                            <span asp-validation-for="UpdateUserDTO.UploadModel.ImageFile" class="text-danger"></span>
+                                            @if (Model.UpdateUserDTO?.UploadModel?.ImageFile != null)
+                                            {
+                                                <div style="margin-top:50px;">
+                                                    <img src="data:image/jpeg;base64,@ConvertImageBytesToBase64(Model.imageBytes)"
+                                                         alt="Preview Image" class="img-fluid my-5" style="border: 2px solid #eee;" id="preview-img" />
+                                                </div>
+
+                                            }
+                                            else
+                                            {
+                                                <div style="margin-top:50px;">
+                                                <img src="http://bootdey.com/img/Content/avatar/avatar1.png" alt="Preview Image"
+                                                     class="img-fluid my-5" id="preview-img" />
+                                                </div>
+                                            }
+                                            <label for="fileInput" class="upload_btn">
+                                                <i class="fa-solid fa-camera mb-4"></i>
+                                            </label>
+                                            <input id="fileInput" asp-for="UpdateUserDTO.UploadModel.ImageFile" onchange="previewImage(event)"
+                                                   style="visibility:hidden;">
+                                        </div>
+                                        <h5 style="font-weight: bold; font-size: 1.2rem;">@Model.UpdateUserDTO.UserTempDTO.FullName</h5>
+                                        <p>@Model.UpdateUserDTO.UserTempDTO.DateOfBirth.ToString("MMMM dd, yyyy")</p>
+                                    </div>
+                                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                    <div class="col-md-8 profile_info_contain">
+                                        <div class="card-body p-4">
+                                            <h2 class="title_profile">Information</h2>
+                                            <hr class="mt-0 mb-4" style="  border: 1px solid #193978;">
+                                            <div class="row pt-1">
+                                                <div class="form-group col-6 mb-3">
+                                                    <h3 class="field_profile">Full Name</h3>
+                                                    <input asp-for="UpdateUserDTO.UserTempDTO.FullName" class="form-control field_info" />
+                                                    <i class="fa-solid fa-pen profile_edit_icon"></i>
+                                                    <span asp-validation-for="UpdateUserDTO.UserTempDTO.FullName" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group col-6 mb-3">
+                                                    <h3 class="field_profile">Gender</h3>
+                                                    <select asp-for="UpdateUserDTO.UserTempDTO.Gender" class="form-control field_info">
+                                                        <option value="Male">Male</option>
+                                                        <option value="Female">Female</option>
+                                                    </select>
+                                                    <i class="fa-solid fa-pen profile_edit_icon"></i>
+                                                    <span asp-validation-for="UpdateUserDTO.UserTempDTO.Gender" class="text-danger"></span>
+                                                </div>
+                                            </div>
+                                            <div class="row pt-1">
+                                                <div class="form-group col-6 mb-3">
+                                                    <h3 class="field_profile">Date of Birth</h3>
+                                                    <input asp-for="UpdateUserDTO.UserTempDTO.DateOfBirth" class="form-control field_info" type="date" />
+                                                    <i class="fa-solid fa-pen profile_edit_icon"></i>
+                                                    <span asp-validation-for="UpdateUserDTO.UserTempDTO.DateOfBirth" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-grou col-6 mb-3">
+                                                    <h3 class="field_profile">Nationality</h3>
+                                                    <select asp-for="UpdateUserDTO.UserTempDTO.National" class="form-control field_info">
+                                                        <option value="Afrikaans">Afrikaans</option>
+                                                        <option value="Albanian">Albanian</option>
+                                                        <option value="Amharic">Amharic</option>
+                                                        <option value="Arabic">Arabic</option>
+                                                        <option value="Armenian">Armenian</option>
+                                                        <option value="Azerbaijani">Azerbaijani</option>
+                                                        <option value="Basque">Basque</option>
+                                                        <option value="Bengali">Bengali</option>
+                                                        <option value="Bulgarian">Bulgarian</option>
+                                                        <option value="Catalan">Catalan</option>
+                                                        <option value="Chinese Simplified">Chinese Simplified</option>
+                                                        <option value="Chinese Traditional">Chinese Traditional</option>
+                                                        <option value="Croatian">Croatian</option>
+                                                        <option value="Czech">Czech</option>
+                                                        <option value="Danish">Danish</option>
+                                                        <option value="Dutch">Dutch</option>
+                                                        <option value="English">English</option>
+                                                        <option value="Estonian">Estonian</option>
+                                                        <option value="Finnish">Finnish</option>
+                                                        <option value="French">French</option>
+                                                        <option value="Galician">Galician</option>
+                                                        <option value="Georgian">Georgian</option>
+                                                        <option value="German">German</option>
+                                                        <option value="Greek">Greek</option>
+                                                        <option value="Gujarati">Gujarati</option>
+                                                        <option value="Hebrew">Hebrew</option>
+                                                        <option value="Hindi">Hindi</option>
+                                                        <option value="Hungarian">Hungarian</option>
+                                                        <option value="Icelandic">Icelandic</option>
+                                                        <option value="Indonesian">Indonesian</option>
+                                                        <option value="Italian">Italian</option>
+                                                        <option value="Japanese">Japanese</option>
+                                                        <option value="Kannada">Kannada</option>
+                                                        <option value="Kazakh">Kazakh</option>
+                                                        <option value="Khmer">Khmer</option>
+                                                        <option value="Korean">Korean</option>
+                                                        <option value="Lao">Lao</option>
+                                                        <option value="Latvian">Latvian</option>
+                                                        <option value="Lithuanian">Lithuanian</option>
+                                                        <option value="Macedonian">Macedonian</option>
+                                                        <option value="Malay">Malay</option>
+                                                        <option value="Malayalam">Malayalam</option>
+                                                        <option value="Marathi">Marathi</option>
+                                                        <option value="Mongolian">Mongolian</option>
+                                                        <option value="Myanmar (Burmese)">Myanmar (Burmese)</option>
+                                                        <option value="Nepali">Nepali</option>
+                                                        <option value="Persian">Persian</option>
+                                                        <option value="Polish">Polish</option>
+                                                        <option value="Portuguese">Portuguese</option>
+                                                        <option value="Punjabi">Punjabi</option>
+                                                        <option value="Romanian">Romanian</option>
+                                                        <option value="Russian">Russian</option>
+                                                        <option value="Serbian">Serbian</option>
+                                                        <option value="Sesotho">Sesotho</option>
+                                                        <option value="Sinhala">Sinhala</option>
+                                                        <option value="Slovak">Slovak</option>
+                                                        <option value="Slovenian">Slovenian</option>
+                                                        <option value="Spanish">Spanish</option>
+                                                        <option value="Swahili">Swahili</option>
+                                                        <option value="Swedish">Swedish</option>
+                                                        <option value="Tamil">Tamil</option>
+                                                        <option value="Telugu">Telugu</option>
+                                                        <option value="Thai">Thai</option>
+                                                        <option value="Turkish">Turkish</option>
+                                                        <option value="Ukrainian">Ukrainian</option>
+                                                        <option value="Urdu">Urdu</option>
+                                                        <option value="Uzbek">Uzbek</option>
+                                                        <option value="Vietnamese">Vietnamese</option>
+                                                        <option value="Xhosa">Xhosa</option>
+                                                        <option value="Zulu">Zulu</option>
+                                                    </select>
+                                                    <i class="fa-solid fa-pen profile_edit_icon"></i>
+                                                    <span asp-validation-for="UpdateUserDTO.UserTempDTO.National" class="text-danger"></span>
+                                                </div>
+                                            </div>
+                                            <h6 style="  font-size: 1.5rem;font-weight: bold; margin-top: 20px;">Contacts</h6>
+                                            <hr class="mt-0 mb-4" style="  border: 1px solid #193978;">
+                                            <div class="row pt-1">
+                                                <div class="form-group col-6 mb-3">
+                                                    <h3 class="field_profile">Email</h3>
+                                                    <input asp-for="UpdateUserDTO.UserTempDTO.Email" class="form-control field_info" />
+                                                    <i class="fa-solid fa-pen profile_edit_icon"></i>
+                                                    <span asp-validation-for="UpdateUserDTO.UserTempDTO.Email" class="text-danger"></span>
+                                                </div>
+                                                <div class="form-group col-6 mb-3">
+                                                    <h3 class="field_profile">Phone</h3>
+                                                    <input asp-for="UpdateUserDTO.UserTempDTO.Phone" class="form-control field_info" />
+                                                    <i class="fa-solid fa-pen profile_edit_icon"></i>
+                                                    <span asp-validation-for="UpdateUserDTO.UserTempDTO.Phone" class="text-danger"></span>
+                                                </div>
+                                            </div>
+                                            <input id="isPicker" asp-for="UpdateUserDTO.UserTempDTO.isPickImage" class="custom-file-input"
+                                                   type="hidden">
+                                            <input asp-for="UpdateUserDTO.UserTempDTO.UserId" class="custom-file-input" type="hidden">
+                                            <div class="form-group">
+                                                <input type="submit" value="Update" class="btn btn-primary add-btn profile_btn" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+</div>
+
+@if (TempData["UpdateSuccess"] != null)
+{
+    <script>
+        swal.fire({
+            title: "Success!",
+            text: "The update was successful.",
+            icon: "success",
+        }).then(() => {
+            window.location.href = "../Index";
+        });
+    </script>
+}
+@if (TempData["UpdateFail"] != null)
+{
+    <script>
+        swal.fire({
+            title: "Error!",
+            text: "The update failed.",
+            icon: "error",
+        }).then(() => {
+            window.location.href = "./EditProfileAdmin";
+        });
+    </script>
+}
+@section Scripts {
+    <script>
+        function previewImage(event) {
+            var input = event.target;
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    $('#preview-img').attr('src', e.target.result);
+                    $('#preview-img').show('src', e.target.result); 
+                }
+                reader.readAsDataURL(input.files[0]);
+            }
+            var updateDtoInput = document.getElementById("isPicker");
+            if (updateDtoInput) {
+                updateDtoInput.value = true;
+            }
+        }
+
+    </script>
+}
+
+

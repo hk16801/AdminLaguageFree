@@ -1,0 +1,103 @@
+/* ===========================USERLIST============================ */
+
+.button_close_modal {
+  z-index: 10;
+  font-size: 30px;
+  color: #b80000;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  cursor: pointer;
+}
+.modal-body {
+  display: flex;
+  padding: 0;
+  border-radius: 2rem;
+  font-family: "PT Sans", sans-serif;
+}
+.modal-content {
+  border-radius: 1rem;
+  width: 97%;
+  -webkit-box-shadow: -1px -2px 42px -19px rgba(0, 0, 0, 0.74);
+  -moz-box-shadow: -1px -2px 42px -19px rgba(0, 0, 0, 0.74);
+  box-shadow: -1px -2px 42px -19px rgba(0, 0, 0, 0.74);
+}
+form {
+  font-size: 0.8em;
+}
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+.column#main {
+  flex: 75%;
+  padding: 50px;
+  margin-top: 30px;
+  margin-left: 15px;
+}
+#main .form-control {
+  border-radius: 0;
+  font-size: 0.9em;
+}
+.form-control:focus {
+  box-shadow: none;
+  border: 1px solid #193978;
+}
+.profile-button {
+  background: rgb(99, 39, 120);
+  box-shadow: none;
+  border: none;
+}
+.profile-button:hover {
+  background: #682773;
+}
+.profile-button:focus {
+  background: #682773;
+  box-shadow: none;
+}
+.profile-button:active {
+  background: #682773;
+  box-shadow: none;
+}
+.back:hover {
+  color: #682773;
+  cursor: pointer;
+}
+.labels {
+  font-size: 11px;
+}
+.add-experience:hover {
+  background: #ba68c8;
+  color: #fff;
+  cursor: pointer;
+  border: solid 1px #ba68c8;
+}
+.label_detail {
+  margin-top: 1rem;
+}
+/* ===========================DETAILS USERLIST============================ */
+.modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  pointer-events: auto;
+  background-color: #ffffff;
+  background-clip: padding-box;
+  border: 1px solid #e8eff9;
+  border-radius: 0.3rem;
+  outline: 0;
+}
+.modal-content {
+  border-radius: 1rem;
+  width: 97%;
+  -webkit-box-shadow: -1px -2px 42px -19px rgba(0, 0, 0, 0.74);
+  -moz-box-shadow: -1px -2px 42px -19px rgba(0, 0, 0, 0.74);
+  box-shadow: -1px -2px 42px -19px rgba(0, 0, 0, 0.74);
+}
+@media (min-width: 576px) {
+  .modal-dialog {
+    margin: 60px 30px;
+    max-width: 100%;
+  }
+}

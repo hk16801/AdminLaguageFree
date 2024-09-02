@@ -1,0 +1,219 @@
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\appsettings.Development.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\appsettings.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\Ocelot.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\package-lock.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\package.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.exe
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.deps.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.runtimeconfig.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.runtimeconfig.dev.json
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.pdb
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.Views.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.Views.pdb
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\FluentValidation.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\bin\Release\net5.0\Ocelot.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.csproj.AssemblyReference.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.AssemblyInfoInputs.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.AssemblyInfo.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorAssemblyInfo.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorAssemblyInfo.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.TagHelpers.input.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.TagHelpers.output.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorCoreGenerate.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\ConfirmMailSuccess.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.Views.pdb
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\scopedcss\bundle\LanguageClient.styles.css
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.csproj.CopyComplete
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\refint\LanguageClient.dll
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.pdb
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.genruntimeconfig.cache
+D:\SVN\Khanh_Client_2703\LanguageClient\LanguageClient\obj\Release\net5.0\ref\LanguageClient.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\appsettings.Development.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\appsettings.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\Ocelot.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\package-lock.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\package.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.exe
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.deps.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.runtimeconfig.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.runtimeconfig.dev.json
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.pdb
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.Views.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.Views.pdb
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\FluentValidation.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\bin\Release\net5.0\Ocelot.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.csproj.AssemblyReference.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.AssemblyInfoInputs.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.AssemblyInfo.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorAssemblyInfo.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorAssemblyInfo.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.TagHelpers.input.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.TagHelpers.output.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorCoreGenerate.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Login\ConfirmMailSuccess.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.Views.pdb
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\scopedcss\bundle\LanguageClient.styles.css
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\Language.E08D7EA5.Up2Date
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\refint\LanguageClient.dll
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.pdb
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.genruntimeconfig.cache
+D:\dash_group_backup\LanguageClient\LanguageClient\LanguageClient\obj\Release\net5.0\ref\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\appsettings.Development.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\appsettings.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\Ocelot.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\package-lock.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\package.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.exe
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.deps.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.runtimeconfig.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.Views.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\FluentValidation.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\bin\Release\net5.0\Ocelot.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\scopedcss\bundle\LanguageClient.styles.css
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Manifest.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\LanguageClient.StaticWebAssets.Pack.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.LanguageClient.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.build.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.buildMultiTargeting.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\staticwebassets\msbuild.buildTransitive.LanguageClient.props
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.TagHelpers.input.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.TagHelpers.output.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorCoreGenerate.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\AdminManagement.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\BlockUser.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\ChangePassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\CreateAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\EditProfileAdmin.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\Feedback.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\Rates.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Admin\UserList.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\LanguageCharts\SourceLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\LanguageCharts\TargetLanguage.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Login\ConfirmMailSuccess.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Login\Login.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Login\ResetPassword.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersAccessing.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersAge.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersGender.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\UserCharts\UsersRegistration.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.RazorTargetAssemblyInfo.cs
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.Views.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\refint\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.pdb
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\LanguageClient.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\ref\LanguageClient.dll
+C:\Users\Admin\OneDrive - Đại học FPT- FPT University\Documents\SourceFinal\LanguageClient\LanguageClient\obj\Release\net5.0\Language.E08D7EA5.Up2Date

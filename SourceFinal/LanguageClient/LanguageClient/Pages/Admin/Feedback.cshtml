@@ -1,0 +1,390 @@
+﻿@page
+@model LanguageClient.Pages.Admin.FeedbackModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+@using Microsoft.AspNetCore.Http
+
+@{
+    var token = HttpContext.Session.GetString("AccessToken");
+    var userName = "";
+    var userId = 0;
+    var role = "";
+    if (token != null)
+    {
+        var tokenParts = token.Split('.');
+        if (tokenParts.Length == 3)
+        {
+            var base64Payload = tokenParts[1];
+            base64Payload = base64Payload.Replace('-', '+').Replace('_', '/');
+            switch (base64Payload.Length % 4)
+            {
+                case 2: base64Payload += "=="; break;
+                case 3: base64Payload += "="; break;
+            }
+            var payloadBytes = Convert.FromBase64String(base64Payload);
+            var jsonPayload = System.Text.Encoding.UTF8.GetString(payloadBytes);
+            dynamic decodedPayload = Newtonsoft.Json.JsonConvert.DeserializeObject(jsonPayload);
+            userName = decodedPayload["UserName"];
+            userId = decodedPayload["UserID"];
+            role = decodedPayload["admin"];
+        }
+        else
+        {
+
+            <pre>Invalid token format</pre>
+        }
+
+    }
+}
+
+<head>
+    <script src="~/js/javascript/jsAll/FeedBack.js"></script>
+</head>
+<!-- partial -->
+<!-- partial:partials/_sidebar.html -->
+<nav class="sidebar sidebar-offcanvas" id="sidebar">
+    <ul class="nav">
+        <li class="nav-item">
+            <div class="d-flex sidebar-profile">
+                <div class="sidebar-profile-image">
+                    <img src="http://languagefree.cosplane.asia/Image/@(HttpContext.Session.GetString("imageName"))" alt="image">
+                </div>
+                <div class="sidebar-profile-name">
+                    @if (role == "3")
+                    {
+                        <p class="sidebar-name">
+
+                            Parent Admin
+
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                    @if (role == "2")
+                    {
+                        <p class="sidebar-name">
+                            Admin
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                </div>
+            </div>
+        </li>
+        <h3>Home</h3>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Index">
+                <i class="fa-solid fa-gauge-high menu-icon"></i>
+                <span class="menu-title">Dashboard</span>
+            </a>
+        </li>
+        @if (role == "3")
+        {
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/Admin/AdminManagement">
+                    <i class="fa-solid fa-user-gear menu-icon"></i>
+                    <span class="menu-title">Admin Management</span>
+                </a>
+            </li>
+        }
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/BlockUser">
+                <i class="fa-solid fa-user-lock menu-icon"></i>
+                <span class="menu-title">Blacklist Management</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/UserList">
+                <i class="fa-solid fa-user menu-icon"></i>
+                <span class="menu-title">User Management</span>
+            </a>
+        </li>
+        <li class="nav-item active">
+            <a class="nav-link" asp-page="/Admin/Feedback">
+                <i class="fa-solid fa-comment-dots menu-icon"></i>
+                <span class="menu-title">Feedback</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/Rates">
+                <i class="fa-solid fa-ranking-star menu-icon"></i>
+                <span class="menu-title">Rating</span>
+            </a>
+        </li>
+        <h3>Overview Statistics</h3>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#charts2" aria-expanded="false" aria-controls="charts2">
+                <i class="fa-solid fa-chart-line menu-icon"></i>
+                <span class="menu-title">User Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts2">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersRegistration">
+                        Users Registration
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAccessing">
+                        Used Features
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersGender">
+                        Users Gender
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAge">
+                        Users Age
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#charts3" aria-expanded="false" aria-controls="charts3">
+                <i class="fa-solid fa-chart-column menu-icon"></i>
+                <span class="menu-title">Language Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts3">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/SourceLanguage">
+                        Source Language Used
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/TargetLanguage">
+                        Target Language Used
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </ul>
+</nav>
+@{
+    Dictionary<int, string> pageColors = new Dictionary<int, string>();
+
+   string[] colors = new string[] {
+    "#5356FF",  
+    "#378CE7", 
+    "#430A5D", 
+    "#E8751A", 
+    "#E178C5",  
+    "#4CCD99",  
+    "#007F73", 
+    "#240A34",  
+    "#51829B",  
+    "#D04848",
+    "#294B29",
+    "#FF9843", 
+    "#5D3587", 
+    "#5FBDFF",
+    "#994D1C",
+    "#CE5A67",  
+    "#4F4A45",   
+    "#363062",   
+    "#176B87",   
+    "#BCA37F"   
+};
+    Random random = new Random();
+}
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="app-title">
+                    <ul class="app-breadcrumb breadcrumb">
+                        <li class="breadcrumb-item"><a asp-page="/Admin/Feedback"><h4><b>Feedback</b></h4></a></li>
+                        <li class="breadcrumb-item title"><b>List of all feedback about Free Languages app.</b></li>
+                    </ul>
+                    <div id="clock"></div>
+                </div>
+            </div>
+        </div>
+                @if (Model.Users.Any() && Model.Comments.Any())
+{
+        <div class="row">
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                     <form class="search_form" asp-page-handler="Search" method="post">
+    <input class="search_input" type="text" id="pageName" name="pageName" placeholder="Enter keyword...">
+    <button class="add-btn search_sumbit" type="submit">Search</button>
+                     </form>
+                    <div class="card-body feedback_list_container">
+                                @foreach (var comment in Model.Comments)
+                                    {
+                                      <div class="card text-dark">
+                                            <div class="card-body card_body_feedback">
+                                                 <div class="d-flex flex-start">
+                                                         <div class="ele-img">
+                                                            @foreach(var i in Model.Users){
+                                                   
+                                                                        if(comment.UserId == i.UserId){
+                                                                    
+                                                                            <img class="rounded-circle shadow-1-strong me-3 image_feedback" src="http://languagefree.cosplane.asia/Image/@i.ImageUser" alt="avatar" width="60" height="60" />
+                                                                    }
+                                                            }
+                                                        </div>
+                                                    
+                                                            <div class=" ml-3">
+                                                                @foreach(var k in Model.Users){
+                                                                     if(comment.UserId == k.UserId){
+                                                                         <h4 class="fw-bold mb-1"> @k.FullName 
+                                                                         @foreach(var p in Model.PageScreens) {
+                                                                                if(comment.PageId == p.PageId) {
+                                                                                    if(pageColors.ContainsKey(p.PageId)) {
+                                                                                        <label class="badge label_page" style="background-color: @pageColors[p.PageId];">@p.PageName</label>
+                                                                                        <a href="#details_user_Modal" style="display:flex;justify-content: center;"
+                                                                                            data-toggle="modal" class="contain-icon feedback_profile" data-target="#userDetailsModal_@k.UserId">
+                                                                                            <i class="mdi mdi-file-find icon_details_user"></i>
+                                                                                        </a>
+                                                                                    } else {
+                                                                                        string randomColor = colors[random.Next(colors.Length)];
+                                                                                        pageColors[p.PageId] = randomColor;
+                                                                                        <label class="badge label_page" style="background-color: @randomColor;">@p.PageName</label>
+                                                                                        <a href="#details_user_Modal" style="display:flex;justify-content:center;"
+                                                                                            data-toggle="modal" class="contain-icon feedback_profile" data-target="#userDetailsModal_@k.UserId">
+                                                                                            <i class="mdi mdi-file-find icon_details_user"></i>
+                                                                                        </a>
+                                                                                    }   
+                                                                                }
+                                                                            }
+                                                                         </h4>
+                                                                        }
+                                                                    }   
+                                        <div class="d-flex align-items-center mb-2">
+                                            <p class="mb-2 text-black-50 date_feedback">
+                                              @comment.Timestamp.ToString("HH:mm MMMM dd, yyyy")
+                                            </p>
+                                        </div>
+                                        <p class="mb-0 limit-text">
+                                            @comment.CommentText
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <hr class="my-0" />
+                        </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+        }else
+{   
+    <form id="reloadForm" method="get">
+    <div class="alert alert-warning" role="alert">
+        No data found. <a href="#" id="showAllLink">Show All</a>
+    </div>
+</form>
+}
+    </div>
+
+    
+ @foreach (var user in Model.Users)
+    {
+       <div class="modal fade" id="userDetailsModal_@user.UserId" tabindex="-1" role="dialog" aria-labelledby="userDetailsModalLabel_@user.UserId" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <span class="button_close_modal" onclick="closeModal('@user.UserId')"><i class="mdi mdi-close-circle-outline"></i></span>
+                        <div class="row">
+                            <div class="col-md-3 border-right image_details">
+                                <div class="d-flex flex-column align-items-center text-center p-3 py-5">
+                                    <img class="rounded-circle mt-5" width="150px" height="150px" src="http://languagefree.cosplane.asia/Image/@user.ImageUser"><span class="name_details">@user.FullName</span><span class="name_details_email">@user.Email</span><span> </span>
+                                </div>
+                            </div>
+                            <div class="col-md-9 border-right">
+                                <div class="py-4 px-5 user_details">
+                                        <h4 class="title_details">User Details</h4>
+                                    <div class="row contain_details_info">
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">
+                                                Full Name
+                                            </label><input type="text" class="form-control data_details" value="@user.FullName" readonly>
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">Phone Number</label><input type="text"
+                                                                                                          class="form-control data_details" readonly value="@user.Phone">
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">Email</label><input type="text"
+                                                                                                   class="form-control data_details" readonly value="@user.Email">
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">
+                                                Birthday
+                                            </label><input type="text" class="form-control data_details" readonly value="@user.DateOfBirth.ToString("MMMM dd, yyyy")">
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">Gender</label><input type="text"
+                                                                                                    class="form-control data_details" readonly value="@user.Gender">
+                                        </div>
+                                        <div class="col-md-5 field_details">
+                                            <label class="labels label_detail">Nationality</label><input type="text"
+                                                                                                         class="form-control data_details" readonly value="@user.National" value="@user.National">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    <!-- partial:../../partials/_footer.html -->
+     <footer class="footer">
+        <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-center text-sm-left d-block d-sm-inline-block">
+                Copyright © <a asp-page="# target="_blank" style="color: #193978; font-weight: bold;">SEP409.G9</a> 2024
+            </span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">
+            Data dashboard  from <a asp-page="#" target="_blank" style="color: #193978; font-weight: bold;">Language Free</a> application
+            </span>
+        </div>
+    </footer>
+</div>
+
+
+<style>
+    
+    .filter-container {
+    position: relative;
+    display: inline-block;
+}
+
+.filter-dropdown {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    z-index: 1;
+}
+
+
+
+.filter-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+}
+</style>

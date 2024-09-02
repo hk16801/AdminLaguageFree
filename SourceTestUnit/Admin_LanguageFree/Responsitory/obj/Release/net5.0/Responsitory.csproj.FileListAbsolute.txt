@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.deps.json
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\Responsitory.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\BusinessObject.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\bin\Release\net5.0\DataAccess.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.csproj.CopyComplete
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\refint\Responsitory.dll
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\Responsitory.pdb
+C:\Users\Acer\source\repos\Admin_LanguageFree\Responsitory\obj\Release\net5.0\ref\Responsitory.dll

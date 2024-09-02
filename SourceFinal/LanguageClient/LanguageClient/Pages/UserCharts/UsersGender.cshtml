@@ -1,0 +1,254 @@
+﻿@page
+@model LanguageClient.Pages.UserCharts.UsersGenderModel
+@{
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+@using Microsoft.AspNetCore.Http
+
+@{
+    var token = HttpContext.Session.GetString("AccessToken");
+    var userName = "";
+    var userId = 0;
+    var role = "";
+    if (token != null)
+    {
+        var tokenParts = token.Split('.');
+        if (tokenParts.Length == 3)
+        {
+            var base64Payload = tokenParts[1];
+            base64Payload = base64Payload.Replace('-', '+').Replace('_', '/');
+            switch (base64Payload.Length % 4)
+            {
+                case 2: base64Payload += "=="; break;
+                case 3: base64Payload += "="; break;
+            }
+            var payloadBytes = Convert.FromBase64String(base64Payload);
+            var jsonPayload = System.Text.Encoding.UTF8.GetString(payloadBytes);
+            dynamic decodedPayload = Newtonsoft.Json.JsonConvert.DeserializeObject(jsonPayload);
+            userName = decodedPayload["UserName"];
+            userId = decodedPayload["UserID"];
+            role = decodedPayload["admin"];
+        }
+        else
+        {
+
+            <pre>Invalid token format</pre>
+        }
+
+    }
+}
+<!-- partial -->
+<!-- partial:partials/_sidebar.html -->
+<nav class="sidebar sidebar-offcanvas" id="sidebar">
+    <ul class="nav">
+        <li class="nav-item">
+            <div class="d-flex sidebar-profile">
+                <div class="sidebar-profile-image">
+                    <img src="http://languagefree.cosplane.asia/Image/@(HttpContext.Session.GetString("imageName"))" alt="image">
+                </div>
+                <div class="sidebar-profile-name">
+                    @if (role == "3")
+                    {
+                        <p class="sidebar-name">
+
+                            Parent Admin
+
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                    @if (role == "2")
+                    {
+                        <p class="sidebar-name">
+                            Admin
+                        </p>
+                        <p class="sidebar-designation">
+                            Welcome, @(HttpContext.Session.GetString("fullName"))!
+                        </p>
+                    }
+                </div>
+            </div>
+        </li>
+        <h3>Home</h3>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Index">
+                <i class="fa-solid fa-gauge-high menu-icon"></i>
+                <span class="menu-title">Dashboard</span>
+            </a>
+        </li>
+        @if (role == "3")
+        {
+            <li class="nav-item">
+                <a class="nav-link" asp-page="/Admin/AdminManagement">
+                    <i class="fa-solid fa-user-gear menu-icon"></i>
+                    <span class="menu-title">Admin Management</span>
+                </a>
+            </li>
+        }
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/BlockUser">
+                <i class="fa-solid fa-user-lock menu-icon"></i>
+                <span class="menu-title">Blacklist Management</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/UserList">
+                <i class="fa-solid fa-user menu-icon"></i>
+                <span class="menu-title">User Management</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/Feedback">
+                <i class="fa-solid fa-comment-dots menu-icon"></i>
+                <span class="menu-title">Feedback</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" asp-page="/Admin/Rates">
+                <i class="fa-solid fa-ranking-star menu-icon"></i>
+                <span class="menu-title">Rating</span>
+            </a>
+        </li>
+        <h3>Overview Statistics</h3>
+        <li class="nav-item active">
+            <a class="nav-link" data-toggle="collapse" href="#charts2" aria-expanded="false" aria-controls="charts2">
+                <i class="fa-solid fa-chart-line menu-icon"></i>
+                <span class="menu-title">User Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts2">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersRegistration">
+                        Users Registration
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAccessing">
+                        Used Features
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersGender">
+                        Users Gender
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/UserCharts/UsersAge">
+                        Users Age
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <li class="nav-item">
+            <a class="nav-link" data-toggle="collapse" href="#charts3" aria-expanded="false" aria-controls="charts3">
+                <i class="fa-solid fa-chart-column menu-icon"></i>
+                <span class="menu-title">Language Statistics</span>
+                <i class="menu-arrow"></i>
+            </a>
+
+        </li>
+        <div class="collapse" id="charts3">
+            <ul class="nav flex-column sub-menu">
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/SourceLanguage">
+                        Source Language Used
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-page="/LanguageCharts/TargetLanguage">
+                        Target Language Used
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </ul>
+</nav>
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="app-title">
+                    <ul class="app-breadcrumb breadcrumb">
+                        <li class="breadcrumb-item"><a asp-page="/UserCharts/UsersGender"><b>Users Gender</b></a></li>
+                        <li class="breadcrumb-item title"><b>The chart below shows the gender of users using the app.</b></li>
+                    </ul>
+                    <div id="clock"></div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 grid-margin stretch-card">
+
+                <div class="card">
+                    <div class="card-body">
+
+                        <div class="ele-btn">
+                            <div class="ele-btn1">
+                                <form asp-page="UsersGender" asp-page-handler="Year" method="post">
+                                    <input type="date" id="selectDateStart" asp-for="selectDateStart" name="selectDateStart" value="@DateTime.Now.AddYears(-1).ToString("yyyy-MM-dd")" hidden />
+                                    <i class="fa-solid fa-arrow-right-long" hidden></i>
+                                    <input type="date" id="selectDateEnd" asp-for="selectDateEnd" name="selectDateEnd" value="@DateTime.Now.ToString("yyyy-MM-dd")" hidden />
+                                    <input id="btnYear" class="add-btn btn_sort_data" type="submit" value="Last 365 Days"></input>
+                                </form>
+                                <form asp-page="UsersGender" asp-page-handler="Quarter" method="post">
+                                    <input type="date" id="selectDateStart" asp-for="selectDateStart" name="selectDateStart" value="@DateTime.Now.AddDays(-90).ToString("yyyy-MM-dd")" hidden />
+                                    <i class="fa-solid fa-arrow-right-long" hidden></i>
+                                    <input type="date" id="selectDateEnd" asp-for="selectDateEnd" name="selectDateEnd" value="@DateTime.Now.ToString("yyyy-MM-dd")" hidden />
+                                    <input id="btnQuarter" class="add-btn btn_sort_data" type="submit" value="Last 90 Days"></input>
+                                </form>
+                                <form asp-page="UsersGender" asp-page-handler="Month" method="post">
+                                    <input type="date" id="selectDateStart" asp-for="selectDateStart" name="selectDateStart" value="@DateTime.Now.AddMonths(-1).ToString("yyyy-MM-dd")" hidden />
+                                    <i class="fa-solid fa-arrow-right-long" hidden></i>
+                                    <input type="date" id="selectDateEnd" asp-for="selectDateEnd" name="selectDateEnd" value="@DateTime.Now.ToString("yyyy-MM-dd")" hidden />
+                                    <input id="btnMonth" class="add-btn btn_sort_data" type="submit" value="Last 30 Days"></input>
+                                </form>
+                                <form asp-page="UsersGender" asp-page-handler="Week" method="post">
+                                    <input type="date" id="selectDateStart" asp-for="selectDateStart" name="selectDateStart" value="@DateTime.Now.AddDays(-7).ToString("yyyy-MM-dd")" hidden />
+                                    <i class="fa-solid fa-arrow-right-long" hidden></i>
+                                    <input type="date" id="selectDateEnd" asp-for="selectDateEnd" name="selectDateEnd" value="@DateTime.Now.ToString("yyyy-MM-dd")" hidden />
+                                    <input id="btnWeek" class="add-btn btn_sort_data" type="submit" value="Last 7 Days"></input>
+                                </form>
+                            </div>
+                            <form class="filter_date" asp-page="UsersGender" asp-page-handler="Filter" method="post">
+                                <input type="date" id="selectDateStart" class="add-btn btn_sort_calendar" asp-for="selectDateStart" name="selectDateStart" />
+                                <i class="fa-solid fa-arrow-right-long"></i>
+                                <input type="date" id="selectDateEnd" class="add-btn btn_sort_calendar" asp-for="selectDateEnd" name="selectDateEnd" />
+                                <input class="btn-applyadd-btn btn_sort_data" style="font-weight:bold; margin-left: 5px;" id="btnApply" type="submit" value="Apply"></input>
+                            </form>
+
+                        </div>
+                        <canvas id="barChart_User_Gender" data-chart-data='{"labels":["Female", "Male"],"datasets":[{"label":"Gender","data":[@Model.FemaleCount,@Model.MaleCount]}]}'></canvas>
+                    </div>
+                </div>
+                <p class="notify_responsive">Charts support screens more than 768px or larger!</p>
+            </div>
+            </div>
+
+              @if (ViewData.ModelState.ContainsKey("selectDateStart") && ViewData.ModelState["selectDateStart"].Errors.Any())
+{
+    <script>
+        Swal.fire({
+            icon: 'error',
+            title: 'Error',
+            text: '@ViewData.ModelState["selectDateStart"].Errors.First().ErrorMessage'
+        });
+    </script>
+}
+        @* Bo code vao cho nay *@
+    </div>
+     <footer class="footer">
+        <div class="d-sm-flex justify-content-center justify-content-sm-between">
+            <span class="text-center text-sm-left d-block d-sm-inline-block">
+                Copyright © <a asp-page="# target="_blank" style="color: #193978; font-weight: bold;">SEP409.G9</a> 2024
+            </span>
+            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">
+            Data dashboard  from <a asp-page="#" target="_blank" style="color: #193978; font-weight: bold;">Language Free</a> application
+            </span>
+        </div>
+    </footer>
+</div>
